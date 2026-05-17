@@ -1,0 +1,2781 @@
+[
+    {
+        "id": "59d3524f02eb490011a0a61b",
+        "name": "Trần Quang Khải - Trần Khắc Chân",
+        "lat": 10.8797100979598,
+        "lng": 106.677986383438,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59d3524f02eb490011a0a61b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f4df6f998a001b2528eb",
+        "name": "Quốc Lộ 13 - cầu Ông Dầu",
+        "lat": 10.7726452614037,
+        "lng": 106.691064834595,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f4df6f998a001b2528eb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "583f969161cfea0012cf68f7",
+        "name": "Nguyễn Thị Định - Đường D",
+        "lat": 10.7492355507977,
+        "lng": 106.593974232674,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f969161cfea0012cf68f7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e8da6f998a001b2524a6",
+        "name": "Phan Đăng Lưu - Thích Quảng Đức",
+        "lat": 10.7265671915496,
+        "lng": 106.620351076126,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e8da6f998a001b2524a6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c426779f74001867415e",
+        "name": "Điện Biên Phủ - Nguyễn Gia Trí",
+        "lat": 10.8610818827294,
+        "lng": 106.686397790909,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c426779f74001867415e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f1046f998a001b2527db",
+        "name": "Lũy Bán Bích - Thoại Ngọc Hầu",
+        "lat": 10.796827763223,
+        "lng": 106.790762543678,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f1046f998a001b2527db&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f44f6f998a001b2528aa",
+        "name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)",
+        "lat": 10.7380517925754,
+        "lng": 106.61497592926,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f44f6f998a001b2528aa&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a605f828576340017d06608",
+        "name": "Nguyễn Thái Sơn - Nguyễn Văn Nghi 1",
+        "lat": 10.7736992353084,
+        "lng": 106.509790420532,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a605f828576340017d06608&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188fe36dfb4b0018f90520",
+        "name": "Trần Văn Giàu - đường Kênh 1",
+        "lat": 10.7576784340111,
+        "lng": 106.658009290695,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188fe36dfb4b0018f90520&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad15",
+        "name": "Lý Tự Trọng - Chu Mạnh Trinh",
+        "lat": 10.8129465937096,
+        "lng": 106.664902567863,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad15&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188a226dfb4b0018f8f70a",
+        "name": "Trần Đại Nghĩa - Võ Trần Chí",
+        "lat": 10.7590644777735,
+        "lng": 106.571368575096,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188a226dfb4b0018f8f70a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7a50bfd3d90017e8f2b2",
+        "name": "Ba Tháng Hai – Sư Vạn Hạnh",
+        "lat": 10.8019970541825,
+        "lng": 106.696482896805,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7a50bfd3d90017e8f2b2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48128f",
+        "name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+        "lat": 10.7701157,
+        "lng": 106.7755866,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48128f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6922934b44912200174bc7ec",
+        "name": "Quốc Lộ 51 - Nguyễn Huệ",
+        "lat": 10.794472307568,
+        "lng": 106.677948832512,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6922934b44912200174bc7ec&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63bd1f21bfd3d90017ec3d04",
+        "name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+        "lat": 10.8079619154301,
+        "lng": 106.672879457474,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63bd1f21bfd3d90017ec3d04&bg=black&w=520&h=300"
+    },
+    {
+        "id": "586e28a0f9fab7001111b0b3",
+        "name": "Quốc lộ 1 - KCX Linh Trung 1",
+        "lat": 10.8619248135124,
+        "lng": 106.654415130615,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=586e28a0f9fab7001111b0b3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd4ee766c880017188946",
+        "name": "Lê Văn Sỹ - Huỳnh Văn Bánh",
+        "lat": 10.7927439077816,
+        "lng": 106.696075201035,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd4ee766c880017188946&bg=black&w=520&h=300"
+    },
+    {
+        "id": "67e217c43215f90017863bc8",
+        "name": "Nguyễn Thị Định - Đường C (20-1)",
+        "lat": 10.7459416028391,
+        "lng": 106.624095439911,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=67e217c43215f90017863bc8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8269c45058170011f6eae4",
+        "name": "Nguyễn Văn Quỳ - Cầu Phú Mỹ",
+        "lat": 10.7503686605855,
+        "lng": 106.670079231262,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8269c45058170011f6eae4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5822adbbedeb6c0012a2d65f",
+        "name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+        "lat": 10.7866311946675,
+        "lng": 106.693720221519,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5822adbbedeb6c0012a2d65f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e43e6f998a001b2522cb",
+        "name": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan",
+        "lat": 10.7917743133057,
+        "lng": 106.695774793625,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e43e6f998a001b2522cb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "649da72ca6068200171a6dbb",
+        "name": "Tôn Đức Thắng - Hàm Nghi",
+        "lat": 10.7235049089888,
+        "lng": 106.601693630219,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=649da72ca6068200171a6dbb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65fd8bfd3d90017eaa461",
+        "name": "Lê Văn Duyệt - Vũ Huy Tấn",
+        "lat": 10.8041364085074,
+        "lng": 106.637651324272,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65fd8bfd3d90017eaa461&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595dc70d3dcfc400106f289a",
+        "name": "Quốc lộ 1 - Ngã 4 Ga",
+        "lat": 10.7986878751089,
+        "lng": 106.718965172768,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595dc70d3dcfc400106f289a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65ebebfd3d90017eaa3ae",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 2 (Dạ cầu Thủ Thiêm 1)",
+        "lat": 10.8001053464053,
+        "lng": 106.657757163048,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65ebebfd3d90017eaa3ae&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b660f8bfd3d90017eaa4ea",
+        "name": "Cầu Tân Thuận 2 - Q7 (Q7-Q4)",
+        "lat": 10.7826315159924,
+        "lng": 106.706235408783,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b660f8bfd3d90017eaa4ea&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56df8108c062921100c143db",
+        "name": "Hoàng Minh Giám - Hồng Hà",
+        "lat": 10.7483923035435,
+        "lng": 106.636669635773,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56df8108c062921100c143db&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7727bfd3d90017e8f14a",
+        "name": "Hoàng Diệu - Đoàn Văn Bơ 2",
+        "lat": 10.8663923069317,
+        "lng": 106.762282848358,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7727bfd3d90017e8f14a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9ddec9766c880017188c9c",
+        "name": "Nút giao Hàng Xanh 5 (Hàng Xanh - Bạch Đằng)",
+        "lat": 10.7843441648872,
+        "lng": 106.691552996635,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9ddec9766c880017188c9c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "681885ff6dfb4b0018f8f1ee",
+        "name": "Trần Đại Nghĩa - Kênh A",
+        "lat": 10.7858618271433,
+        "lng": 106.6664904356,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=681885ff6dfb4b0018f8f1ee&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd7fb766c880017188954",
+        "name": "Phạm Văn Đồng - Đường 20 (hướng đi Sân bay)",
+        "lat": 10.7499786604875,
+        "lng": 106.663234233856,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd7fb766c880017188954&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b66089bfd3d90017eaa4bd",
+        "name": "Nơ Trang Long - Chu Văn An",
+        "lat": 10.7869104851311,
+        "lng": 106.664623618126,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b66089bfd3d90017eaa4bd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a89f51afb9c00172d26ef",
+        "name": "Nguyễn Văn Linh - Trịnh Quang Nghị 2",
+        "lat": 10.7865626894198,
+        "lng": 106.701729297638,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a89f51afb9c00172d26ef&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f3058c5ed4001b27f58e",
+        "name": "Trần Văn Giàu - Cầu Đôi",
+        "lat": 10.8010380283306,
+        "lng": 106.657853722572,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f3058c5ed4001b27f58e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "597bf277faa7ea0011c7c29f",
+        "name": "Cầu Phú Hữu 2",
+        "lat": 10.7961796195486,
+        "lng": 106.778848171234,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=597bf277faa7ea0011c7c29f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9ddf49766c880017188ca0",
+        "name": "Nút giao Hàng Xanh 7 (Hàng Xanh - Cầu Văn Thánh)",
+        "lat": 10.7662581006404,
+        "lng": 106.678780317307,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9ddf49766c880017188ca0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cda6a766c880017188960",
+        "name": "Phạm Văn Đồng - Kha Vạn Cân (hướng đi Sân bay)",
+        "lat": 10.7730352321784,
+        "lng": 106.690050959587,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cda6a766c880017188960&bg=black&w=520&h=300"
+    },
+    {
+        "id": "681826506dfb4b0018f83e64",
+        "name": "Mai Bá Hương - Kênh 3",
+        "lat": 10.8142217306645,
+        "lng": 106.679236292839,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=681826506dfb4b0018f83e64&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a86a11afb9c00172d2410",
+        "name": "Tùng Thiện Vương - Cao Xuân Dục",
+        "lat": 10.7900142805592,
+        "lng": 106.595411896706,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a86a11afb9c00172d2410&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48128b",
+        "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 1",
+        "lat": 10.7863150164711,
+        "lng": 106.687223911285,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48128b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6922924644912200174bc737",
+        "name": "Quốc Lộ 51 - Mỹ Xuân - Ngãi Giao 2",
+        "lat": 10.766405660338,
+        "lng": 106.524939537048,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6922924644912200174bc737&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8241105058170011f6eaa6",
+        "name": "Đinh Tiên Hoàng - Võ Thị Sáu 2",
+        "lat": 10.7832164525575,
+        "lng": 106.701187491417,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8241105058170011f6eaa6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a825ded5058170011f6ead7",
+        "name": "Quốc lộ 50 - Cầu Ông Thìn (2)",
+        "lat": 10.7937134991298,
+        "lng": 106.651657819748,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a825ded5058170011f6ead7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188bb96dfb4b0018f8fdbf",
+        "name": "Vĩnh Lộc - Trần Hải Phụng",
+        "lat": 10.7403707962704,
+        "lng": 106.701048016548,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188bb96dfb4b0018f8fdbf&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6082698576340017d06678",
+        "name": "QL1 - Trạm thu phí AS-AL 2",
+        "lat": 10.8735359428243,
+        "lng": 106.808030605316,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6082698576340017d06678&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b5503bbfd3d90017ea7ccc",
+        "name": "Nút giao Mỹ Thủy (7)",
+        "lat": 10.7489509551128,
+        "lng": 106.581823825836,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b5503bbfd3d90017ea7ccc&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c3fa779f740018674146",
+        "name": "Nguyễn Hữu Cảnh - Ung Văn Khiêm",
+        "lat": 10.779137682017,
+        "lng": 106.702335476875,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c3fa779f740018674146&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c34d779f74001867409e",
+        "name": "Ba Tháng Hai - Thành Thái",
+        "lat": 10.8532003648042,
+        "lng": 106.633172035217,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c34d779f74001867409e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48128c",
+        "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 2",
+        "lat": 10.8351289878163,
+        "lng": 106.663491725922,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48128c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f4836f998a001b2528bf",
+        "name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (2)",
+        "lat": 10.7709694352995,
+        "lng": 106.701128482819,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f4836f998a001b2528bf&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595d98fc3dcfc400106f287b",
+        "name": "Quốc lộ 1 - An Phú Đông 13 (2)",
+        "lat": 10.7546955197447,
+        "lng": 106.662520766258,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595d98fc3dcfc400106f287b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6818887f6dfb4b0018f8f54c",
+        "name": "Trần Văn Giàu - Võ Văn Vân",
+        "lat": 10.8960825794088,
+        "lng": 106.718090772629,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6818887f6dfb4b0018f8f54c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68eddd0a230ee50017d040b2",
+        "name": "Mỹ Phước Tân Vạn - Phạm Ngọc Thạch (2)",
+        "lat": 10.9836400150392,
+        "lng": 106.576770544052,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68eddd0a230ee50017d040b2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b5995a3fd4edb0019c7d9ab",
+        "name": "Võ Văn Kiệt - Cầu Chà Và 2 (trên cầu)",
+        "lat": 10.6341211316771,
+        "lng": 107.048034667969,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b5995a3fd4edb0019c7d9ab&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b81a31afb9c00172dcc65",
+        "name": "Nam Kỳ Khởi Nghĩa - Võ Văn Tần",
+        "lat": 10.7644610285251,
+        "lng": 106.659817099571,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b81a31afb9c00172dcc65&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6318283cc9eae60017a19f0c",
+        "name": "Nguyễn Thị Minh Khai - Đinh Tiên Hoàng 1",
+        "lat": 10.765389,
+        "lng": 106.681205,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6318283cc9eae60017a19f0c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58746488b807da0011e33cd7",
+        "name": "Cầu vượt Sóng Thần 2",
+        "lat": 10.7846919631639,
+        "lng": 106.695957183838,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58746488b807da0011e33cd7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5822b5ededeb6c0012a2d66a",
+        "name": "Mai Chí Thọ - Nguyễn Cơ Thạch 1",
+        "lat": 10.7527666230832,
+        "lng": 106.723691225052,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5822b5ededeb6c0012a2d66a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7be0bfd3d90017e8f3a8",
+        "name": "Ba Tháng Hai - Lê Đại Hành 1",
+        "lat": 10.8502078623705,
+        "lng": 106.813673973084,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7be0bfd3d90017e8f3a8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54f70bfd3d90017ea7c86",
+        "name": "Cầu Sài Gòn (10)",
+        "lat": 10.7235786992945,
+        "lng": 106.697700619698,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54f70bfd3d90017ea7c86&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595d984b3dcfc400106f2879",
+        "name": "Quốc lộ 1 - An Phú Đông 13 (1)",
+        "lat": 10.8672299545045,
+        "lng": 106.787940859795,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595d984b3dcfc400106f2879&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b25a268f13cba001124e713",
+        "name": "Nam Kỳ Khởi Nghĩa - Lê Thánh Tôn",
+        "lat": 10.7857353555811,
+        "lng": 106.706600189209,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b25a268f13cba001124e713&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae768dbfd3d90017e8f0f1",
+        "name": "Khánh Hội - Vĩnh Hội",
+        "lat": 10.7344045962095,
+        "lng": 106.559443473816,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae768dbfd3d90017e8f0f1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a89ae1afb9c00172d26ad",
+        "name": "Nguyễn Văn Linh - Trịnh Quang Nghị",
+        "lat": 10.830049838744,
+        "lng": 106.804490089417,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a89ae1afb9c00172d26ad&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58e49783d9d6200011e0b9ce",
+        "name": "Trường Chinh - Phan Văn Hớn 2 (HM-Q12)",
+        "lat": 10.771135,
+        "lng": 106.693342,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58e49783d9d6200011e0b9ce&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ef776f998a001b252768",
+        "name": "Quốc Lộ 22 - Nguyễn Thị Sóc",
+        "lat": 10.6656266937569,
+        "lng": 106.570794582367,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ef776f998a001b252768&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b51d21afb9c00172d89bf",
+        "name": "Tên Lửa - Đường số 7",
+        "lat": 10.8752217316573,
+        "lng": 106.758962273598,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b51d21afb9c00172d89bf&bg=black&w=520&h=300"
+    },
+    {
+        "id": "585b2baec3f96200127dc508",
+        "name": "Nguyễn Văn Linh - Huỳnh Tấn Phát 2",
+        "lat": 10.8144114199963,
+        "lng": 106.71005487442,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=585b2baec3f96200127dc508&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b80051afb9c00172dcaf6",
+        "name": "Nguyễn Trãi - Nguyễn Cư Trinh",
+        "lat": 10.7990303873734,
+        "lng": 106.727387309074,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b80051afb9c00172dcaf6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd253766c88001718893a",
+        "name": "Nguyễn Tri Phương - Hùng Vương",
+        "lat": 10.8020392090947,
+        "lng": 106.683232784271,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd253766c88001718893a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5bc31afb9c00172d92e2",
+        "name": "Lê Trọng Tấn - Đường Kênh 19/5",
+        "lat": 10.8006480938667,
+        "lng": 106.661823391914,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5bc31afb9c00172d92e2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5874644cb807da0011e33cd5",
+        "name": "Cầu vượt Sóng Thần 1",
+        "lat": 10.7692988698081,
+        "lng": 106.696676015854,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5874644cb807da0011e33cd5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "597bf0b8faa7ea0011c7c293",
+        "name": "Cầu Phú Hữu 1",
+        "lat": 10.7713172490313,
+        "lng": 106.716717481613,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=597bf0b8faa7ea0011c7c293&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188af96dfb4b0018f8f8e4",
+        "name": "Võ Trần Chí - Kênh 10 (1)",
+        "lat": 10.7805078178228,
+        "lng": 106.698188781738,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188af96dfb4b0018f8f8e4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad19",
+        "name": "Nguyễn Thị Minh Khai - Mạc Đĩnh Chi",
+        "lat": 10.7596494601112,
+        "lng": 106.684375405312,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad19&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589add0fb3bf7600110283ae",
+        "name": "Tô Ký (Tỉnh lộ 15) - Đông Bắc",
+        "lat": 10.7878590168447,
+        "lng": 106.691815853119,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589add0fb3bf7600110283ae&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58abbf72bd82540010390ba4",
+        "name": "Cầu Sài Gòn 9 (Bình Thạnh - Thủ Đức)",
+        "lat": 10.865064709737,
+        "lng": 106.759042739868,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58abbf72bd82540010390ba4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58ad6961bd82540010390be5",
+        "name": "Nút giao Phú Nhuận 1 (Phan Đình Phùng)",
+        "lat": 10.7877852422632,
+        "lng": 106.595111489296,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58ad6961bd82540010390be5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8257e25058170011f6eacd",
+        "name": "Hoàng Hữu Nam - Đường D400",
+        "lat": 10.7978184191454,
+        "lng": 106.721127033234,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8257e25058170011f6eacd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b52a31afb9c00172d8b01",
+        "name": "Lê Đức Thọ - Hẻm 688",
+        "lat": 10.7991621227557,
+        "lng": 106.729398965836,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b52a31afb9c00172d8b01&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8ef41afb9c00172d2af2",
+        "name": "Lê Văn Lương - Đường số 15",
+        "lat": 10.8022710610062,
+        "lng": 106.746608018875,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8ef41afb9c00172d2af2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c398779f7400186740e3",
+        "name": "Ba Tháng Hai - Tạ Uyên",
+        "lat": 10.6860698233787,
+        "lng": 106.57566010952,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c398779f7400186740e3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e31e6f998a001b252250",
+        "name": "Kỳ Đồng - Bà Huyện Thanh Quan",
+        "lat": 10.7825155824841,
+        "lng": 106.683688759804,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e31e6f998a001b252250&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f3cf8c5ed4001b27f61e",
+        "name": "Tỉnh Lộ 8 - Cầu Phú Cường",
+        "lat": 10.8141637700114,
+        "lng": 106.668593287468,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f3cf8c5ed4001b27f61e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58d7b3e8c1e33c00112b3207",
+        "name": "Quốc lộ 1 - Nguyễn Văn Linh",
+        "lat": 10.7886020312638,
+        "lng": 106.6847884655,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58d7b3e8c1e33c00112b3207&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cdc57766c88001718896e",
+        "name": "Lý Thường Kiệt - Lạc Long Quân",
+        "lat": 10.760766720521,
+        "lng": 106.67405962944,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdc57766c88001718896e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5ad0679598d8fc001102e274",
+        "name": "Lê Văn Việt - Man Thiện",
+        "lat": 10.773841521503,
+        "lng": 106.621397137642,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5ad0679598d8fc001102e274&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58175ac4edeb6c0012a2d5bb",
+        "name": "Mai Chí Thọ - Đồng Văn Cống 1",
+        "lat": 10.7859250629045,
+        "lng": 106.641583442688,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58175ac4edeb6c0012a2d5bb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "62da3e840637a10017d7073d",
+        "name": "Quốc Lộ 13 - Đinh Thị Thi 3",
+        "lat": 10.7637917349984,
+        "lng": 106.697652339935,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=62da3e840637a10017d7073d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd614766c88001718894a",
+        "name": "Lê Quang Định - Nơ Trang Long",
+        "lat": 10.8310719980749,
+        "lng": 106.676913499832,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd614766c88001718894a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a824c3e5058170011f6eaae",
+        "name": "Nút giao Bốn Xã 1 (Bình Long)",
+        "lat": 10.777768,
+        "lng": 106.68202,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a824c3e5058170011f6eaae&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587470c2b807da0011e33ce4",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố (Cầu Thủ Thiêm 1)",
+        "lat": 10.7939137404315,
+        "lng": 106.576459407806,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587470c2b807da0011e33ce4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "67e217ea3215f90017863bf1",
+        "name": "Nguyễn Thị Định - Đường C (20-2)",
+        "lat": 10.9846089851621,
+        "lng": 106.66610956192,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=67e217ea3215f90017863bf1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "584e734a61cfea0012cf694f",
+        "name": "Quốc lộ 1 - Lê Trọng Tấn",
+        "lat": 10.7767873576075,
+        "lng": 106.697995662689,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=584e734a61cfea0012cf694f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ec826f998a001b252686",
+        "name": "Nguyễn Oanh - Lê Đức Thọ",
+        "lat": 10.763649,
+        "lng": 106.659903,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ec826f998a001b252686&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6922939144912200174bc80c",
+        "name": "Quốc Lộ 51 - đường vào cảng Cái Mép",
+        "lat": 10.8591062543837,
+        "lng": 106.705430746078,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6922939144912200174bc80c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0d",
+        "name": "Lê Lợi - Pasteur",
+        "lat": 10.8192748027252,
+        "lng": 106.689192652702,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad0d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6818863c6dfb4b0018f8f235",
+        "name": "Trần Đại Nghĩa - Mai Bá Hương",
+        "lat": 10.8486167661312,
+        "lng": 106.633611917496,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6818863c6dfb4b0018f8f235&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5adc1afb9c00172d925b",
+        "name": "Trường Chinh - Phan Huy Ích 1",
+        "lat": 10.7671171078657,
+        "lng": 106.699680089951,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5adc1afb9c00172d925b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b87c386ca057700116404a6",
+        "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+        "lat": 10.8511456568495,
+        "lng": 106.757980585098,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b87c386ca057700116404a6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e8406f998a001b252465",
+        "name": "Phan Đăng Lưu - Hoàng Hoa Thám",
+        "lat": 10.8134629721378,
+        "lng": 106.632796525955,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e8406f998a001b252465&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188a816dfb4b0018f8f769",
+        "name": "Võ Trần Chí - Thế Lữ 1",
+        "lat": 10.7791113331904,
+        "lng": 106.702115535736,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188a816dfb4b0018f8f769&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595da2853dcfc400106f2883",
+        "name": "Quốc lộ 1 - Đường 15 (1)",
+        "lat": 10.8013067666529,
+        "lng": 106.662268638611,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595da2853dcfc400106f2883&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b632950fd4edb0019c7dc07",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 3",
+        "lat": 10.788566,
+        "lng": 106.699558,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b632950fd4edb0019c7dc07&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b54711afb9c00172d8d4f",
+        "name": "90 Nguyễn Thái Sơn",
+        "lat": 10.7275738904052,
+        "lng": 106.677889823914,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b54711afb9c00172d8d4f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4faa1afb9c00172d875e",
+        "name": "Tháp Mười - Phạm Đình Hổ",
+        "lat": 10.7492250102216,
+        "lng": 106.580879688263,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4faa1afb9c00172d875e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c4812a1",
+        "name": "Nút giao Mỹ Thủy 1",
+        "lat": 10.7528720275909,
+        "lng": 106.702179908752,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c4812a1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65e6abfd3d90017eaa361",
+        "name": "Nguyễn Thị Định - Thân Văn Nhiếp",
+        "lat": 10.7045402040992,
+        "lng": 106.732370853424,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65e6abfd3d90017eaa361&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56f11afc3ac17b11001c504e",
+        "name": "Trường Sơn - Phan Đình Giót",
+        "lat": 10.7528825680397,
+        "lng": 106.728594303131,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56f11afc3ac17b11001c504e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a825b7d5058170011f6ead4",
+        "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (3)",
+        "lat": 10.8026188385378,
+        "lng": 106.698435544968,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a825b7d5058170011f6ead4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b857b1afb9c00172dd106",
+        "name": "Điện Biên Phủ - Nguyễn Bỉnh Khiêm",
+        "lat": 10.7263616348268,
+        "lng": 106.61993265152,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b857b1afb9c00172dd106&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae75f9bfd3d90017e8f097",
+        "name": "Cao Thắng – Võ Văn Tần 2",
+        "lat": 10.7564346782916,
+        "lng": 106.719351410866,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae75f9bfd3d90017e8f097&bg=black&w=520&h=300"
+    },
+    {
+        "id": "65e0556b6b18080018db665e",
+        "name": "Nguyễn Thái Học - Phạm Ngũ Lão",
+        "lat": 10.7882331590867,
+        "lng": 106.703939437866,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=65e0556b6b18080018db665e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595dd9ac3dcfc400106f28b4",
+        "name": "Quốc lộ 1 - BQB Trước UBND Q12 (hướng đi An Sương)",
+        "lat": 10.8581948267685,
+        "lng": 106.787774562836,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595dd9ac3dcfc400106f28b4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8cc51afb9c00172d2938",
+        "name": "Huỳnh Tấn Phát - Phú Thuận",
+        "lat": 10.7625480044979,
+        "lng": 106.767582893372,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8cc51afb9c00172d2938&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5990ffdbbec3b90016d2ad2d",
+        "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+        "lat": 10.7291234621994,
+        "lng": 106.700549125671,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5990ffdbbec3b90016d2ad2d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58744f1fb807da0011e33cbd",
+        "name": "Hưng Phú - Chánh Hưng 1",
+        "lat": 10.8730512767713,
+        "lng": 106.732392311096,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58744f1fb807da0011e33cbd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589b4644b3bf7600110283ce",
+        "name": "Hà Huy Giáp - Cầu Phú Long 1",
+        "lat": 10.8374050930507,
+        "lng": 106.732848286629,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589b4644b3bf7600110283ce&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54fe4bfd3d90017ea7ca2",
+        "name": "Nút giao Mỹ Thủy (5)",
+        "lat": 10.8055485847835,
+        "lng": 106.817160844803,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54fe4bfd3d90017ea7ca2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ebd76f998a001b25264d",
+        "name": "Quốc Lộ 1 - Tô Ký",
+        "lat": 10.7485662234825,
+        "lng": 106.594237089157,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ebd76f998a001b25264d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "681888b66dfb4b0018f8f58c",
+        "name": "VX Trần Văn Giàu - Tỉnh Lộ 10",
+        "lat": 10.7911261587324,
+        "lng": 106.718181967735,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=681888b66dfb4b0018f8f58c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "586e2995f9fab7001111b0b5",
+        "name": "Ung Văn Khiêm - Nguyễn Gia Trí (D2)",
+        "lat": 10.8533952979021,
+        "lng": 106.751462817192,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=586e2995f9fab7001111b0b5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ee666f998a001b252726",
+        "name": "Quang Trung - Phan Huy Ích",
+        "lat": 10.7817830924671,
+        "lng": 106.696933507919,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ee666f998a001b252726&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b51201afb9c00172d889a",
+        "name": "Hương Lộ 2 - Mã Lò",
+        "lat": 10.8492753334826,
+        "lng": 106.773784160614,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b51201afb9c00172d889a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481282",
+        "name": "Mai Chí Thọ - Đồng Văn Cống 2",
+        "lat": 10.8044525679523,
+        "lng": 106.660938262939,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481282&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6066608576340017d06617",
+        "name": "Quang Trung - Tân Sơn",
+        "lat": 10.7971913554037,
+        "lng": 106.681151390076,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6066608576340017d06617&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b872d1afb9c00172dd36a",
+        "name": "Lê Văn Sỹ - Trần Quang Diệu",
+        "lat": 10.7703792050172,
+        "lng": 106.686387062073,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b872d1afb9c00172dd36a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48127e",
+        "name": "Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu B)",
+        "lat": 10.8617667641718,
+        "lng": 106.671018004417,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48127e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56f8d743025e9511002786c5",
+        "name": "Trường Sơn - Ga Quốc Nội 1",
+        "lat": 10.9929925503389,
+        "lng": 106.655187606812,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56f8d743025e9511002786c5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8266105058170011f6eadf",
+        "name": "Nguyễn Văn Linh - Quốc lộ 50 (2)",
+        "lat": 10.8227260178037,
+        "lng": 106.629813909531,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8266105058170011f6eadf&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a82602c5058170011f6ead9",
+        "name": "Vĩnh Lộc - Nguyễn Thị Tú 1",
+        "lat": 10.755127675229,
+        "lng": 106.727993488312,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a82602c5058170011f6ead9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481284",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Thiện Thuật",
+        "lat": 10.8146485314923,
+        "lng": 106.671742200851,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481284&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7a08bfd3d90017e8f285",
+        "name": "Ba Tháng Hai - Lê Hồng Phong 1",
+        "lat": 10.7232729964823,
+        "lng": 106.660873889923,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7a08bfd3d90017e8f285&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587ee7d7b807da0011e33d55",
+        "name": "Phan Đăng Lưu - Nơ Trang Long",
+        "lat": 10.7731,
+        "lng": 106.70004,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587ee7d7b807da0011e33d55&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad17",
+        "name": "Nguyễn Thị Minh Khai - Hai Bà Trưng",
+        "lat": 10.7763973916927,
+        "lng": 106.601006984711,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad17&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7893bfd3d90017e8f1e1",
+        "name": "Nguyễn Tất Thành - Lê Văn Linh",
+        "lat": 10.6882837981823,
+        "lng": 106.585782766342,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7893bfd3d90017e8f1e1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a823ba75058170011f6ea9e",
+        "name": "Trần Hưng Đạo - Nguyễn Thái Học 1",
+        "lat": 10.7803181070833,
+        "lng": 106.532835960388,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a823ba75058170011f6ea9e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5a401afb9c00172d91fc",
+        "name": "Trường Chinh - Nguyễn Hồng Đào",
+        "lat": 10.8136315853096,
+        "lng": 106.665363907814,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5a401afb9c00172d91fc&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595ddb493dcfc400106f28b6",
+        "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 2",
+        "lat": 10.7025688186824,
+        "lng": 106.571438312531,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595ddb493dcfc400106f28b6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c1f2779f740018673f0d",
+        "name": "An Dương Vương - Nguyễn Văn Cừ",
+        "lat": 10.9713380309812,
+        "lng": 106.481675505638,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c1f2779f740018673f0d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a60604f8576340017d0660b",
+        "name": "Nguyễn Thái Sơn - Nguyễn Văn Nghi 2",
+        "lat": 10.8536007677866,
+        "lng": 106.751317977905,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a60604f8576340017d0660b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e6b86f998a001b2523b8",
+        "name": "Lý Thái Tổ - Hồ Thị Kỷ",
+        "lat": 10.8133575888573,
+        "lng": 106.709566712379,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e6b86f998a001b2523b8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5ad064b498d8fc001102e26f",
+        "name": "Lã Xuân Oai - Cầu Tăng Long (2)",
+        "lat": 10.7833376554873,
+        "lng": 106.690700054169,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5ad064b498d8fc001102e26f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "65e0552f6b18080018db6647",
+        "name": "Lê Lai - Phan Chu Trinh",
+        "lat": 10.8607341730882,
+        "lng": 106.691998243332,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=65e0552f6b18080018db6647&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c22f779f740018673f6e",
+        "name": "Vòng xoay Phú Lâm (2)",
+        "lat": 10.7554228054478,
+        "lng": 106.723868250847,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c22f779f740018673f6e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5be91afb9c00172d939b",
+        "name": "Lê Trọng Tấn - Tây Thạnh",
+        "lat": 10.7548430851016,
+        "lng": 106.658910512924,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5be91afb9c00172d939b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6818901a6dfb4b0018f9058a",
+        "name": "Tỉnh Lộ 10 - cầu Tân Tạo",
+        "lat": 10.7828791919741,
+        "lng": 106.672096252441,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6818901a6dfb4b0018f9058a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4efc1afb9c00172d86bc",
+        "name": "Trần Hưng Đạo - Trần Phú",
+        "lat": 10.8253815821995,
+        "lng": 106.603088378906,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4efc1afb9c00172d86bc&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b87551afb9c00172dd43a",
+        "name": "Trần Quốc Thảo - Kỳ Đồng",
+        "lat": 10.759539,
+        "lng": 106.668851,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b87551afb9c00172dd43a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188bf46dfb4b0018f8ff12",
+        "name": "Vĩnh Lộc - kênh Trung Ương",
+        "lat": 10.9802907242505,
+        "lng": 106.610898971558,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188bf46dfb4b0018f8ff12&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481289",
+        "name": "Võ Văn Kiệt - Cầu Ông Lãnh 2",
+        "lat": 10.7993096663153,
+        "lng": 106.680368185043,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481289&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f5876f998a001b25291a",
+        "name": "Võ Nguyên Giáp - quay đầu An Phú (1)",
+        "lat": 10.7899088890498,
+        "lng": 106.689380407333,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f5876f998a001b25291a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54898bfd3d90017ea77ae",
+        "name": "Nguyễn Duy Trinh - Bưng Ông Thoàn",
+        "lat": 10.8244331690453,
+        "lng": 106.769192218781,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54898bfd3d90017ea77ae&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5b271afb9c00172d9296",
+        "name": "Trường Chinh - Tân Hải",
+        "lat": 10.7478547321893,
+        "lng": 106.585021018982,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5b271afb9c00172d9296&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ede60a230ee50017d04c69",
+        "name": "Đại lộ Bình Dương - ngã 5 Phước Kiến (2)",
+        "lat": 10.7675334356397,
+        "lng": 106.695860624313,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ede60a230ee50017d04c69&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6085688576340017d06684",
+        "name": "QL1-Tỉnh lộ 10 (3)",
+        "lat": 10.8619248135124,
+        "lng": 106.65426492691,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6085688576340017d06684&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca329d02eb490011a0a410",
+        "name": "QL1 - Nút giao An Lạc 1",
+        "lat": 10.8111972234488,
+        "lng": 106.676033735275,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca329d02eb490011a0a410&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54996bfd3d90017ea781a",
+        "name": "Đỗ Xuân Hợp - Dương Đình Hội",
+        "lat": 10.775796632403,
+        "lng": 106.72761797905,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54996bfd3d90017ea781a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cdcf0766c880017188972",
+        "name": "Nút giao Lê Đại Hành 1 (Bình Thới)",
+        "lat": 10.7601553898663,
+        "lng": 106.786760687828,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdcf0766c880017188972&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b57ec1afb9c00172d90e3",
+        "name": "Cộng Hòa - Hoàng Hoa Thám",
+        "lat": 10.8212296179772,
+        "lng": 106.693714857101,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b57ec1afb9c00172d90e3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b50571afb9c00172d87df",
+        "name": "Quốc Lộ 50 - Bùi Minh Trực",
+        "lat": 10.8264933293527,
+        "lng": 106.761032938957,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b50571afb9c00172d87df&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b52131afb9c00172d8a23",
+        "name": "Tỉnh lộ 10 - Mã Lò",
+        "lat": 10.7326336873021,
+        "lng": 106.516485214233,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b52131afb9c00172d8a23&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6061fd8576340017d06613",
+        "name": "Quang Trung - Trưng Nữ Vương",
+        "lat": 10.7957475229889,
+        "lng": 106.638236045837,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6061fd8576340017d06613&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595da7d93dcfc400106f288a",
+        "name": "Quốc lộ 1 - Đường Vườn Lài 2",
+        "lat": 10.8664976715355,
+        "lng": 106.761660575867,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595da7d93dcfc400106f288a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c311779f740018674083",
+        "name": "Vòng xoay Phú Lâm (1)",
+        "lat": 10.7302724592873,
+        "lng": 106.577425003052,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c311779f740018674083&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ae7f327d735d00173c74e4",
+        "name": "Cầu Bình Triệu (2) hướng đi xòng xoay",
+        "lat": 10.7564662992633,
+        "lng": 106.591324210167,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ae7f327d735d00173c74e4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8cfe1afb9c00172d296e",
+        "name": "Huỳnh Tấn Phát - Trần Trọng Cung",
+        "lat": 10.8554657956616,
+        "lng": 106.607159972191,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8cfe1afb9c00172d296e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd326766c88001718893e",
+        "name": "Nút giao Cây Gõ 3 (dạ cầu)",
+        "lat": 10.8735570152435,
+        "lng": 106.765501499176,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd326766c88001718893e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae76afbfd3d90017e8f106",
+        "name": "Khánh Hội - Đường số 41",
+        "lat": 10.7596125693667,
+        "lng": 106.713321805,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae76afbfd3d90017e8f106&bg=black&w=520&h=300"
+    },
+    {
+        "id": "583f926761cfea0012cf68f1",
+        "name": "Nguyễn Thị Định - Cổng A Cảng Cát Lái",
+        "lat": 10.7820887360004,
+        "lng": 106.739709377289,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f926761cfea0012cf68f1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56df81d8c062921100c143de",
+        "name": "Nút giao Thủ Đức (trên cầu)",
+        "lat": 10.7684240589462,
+        "lng": 106.684364676476,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56df81d8c062921100c143de&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8a661afb9c00172d2762",
+        "name": "Nguyễn Văn Linh - Quản Trọng Linh",
+        "lat": 10.7692092808607,
+        "lng": 106.669843196869,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8a661afb9c00172d2762&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6084898576340017d06680",
+        "name": "QL1 - Tân Tạo Chợ Đệm 3",
+        "lat": 10.721839351587,
+        "lng": 106.611467599869,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6084898576340017d06680&bg=black&w=520&h=300"
+    },
+    {
+        "id": "586e2492f9fab7001111b0ab",
+        "name": "Nguyễn Văn Trỗi - Nguyễn Đình Chính",
+        "lat": 11.0087690153912,
+        "lng": 106.668190956116,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=586e2492f9fab7001111b0ab&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ede0cf230ee50017d04657",
+        "name": "Mỹ Phước Tân Vạn - Điện Biên Phủ (1)",
+        "lat": 10.7892923479795,
+        "lng": 106.660181879997,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ede0cf230ee50017d04657&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587479b1b807da0011e33cf9",
+        "name": "Trường Chinh - Tây Thạnh 2",
+        "lat": 10.8456979781692,
+        "lng": 106.718176603317,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587479b1b807da0011e33cf9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b0b7aba0e517b00119fd800",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 1",
+        "lat": 10.7909838807122,
+        "lng": 106.792902946472,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b0b7aba0e517b00119fd800&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595ddbbf3dcfc400106f28b8",
+        "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 3",
+        "lat": 10.752102573838,
+        "lng": 106.725064516068,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595ddbbf3dcfc400106f28b8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9de43b766c880017188cb6",
+        "name": "Cao tốc LTDG - Đỗ Xuân Hợp 1",
+        "lat": 10.8445494220268,
+        "lng": 106.78128361702,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9de43b766c880017188cb6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595f8f0b3dcfc400106f28f4",
+        "name": "Quốc lộ 1 - BQB Cầu vượt Quang Trung B (hướng Ngã 4 Ga)",
+        "lat": 10.7888760503025,
+        "lng": 106.514360904694,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595f8f0b3dcfc400106f28f4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b0b7e1c0e517b00119fd80b",
+        "name": "Nguyễn Duy Trinh (Chợ Long Trường)",
+        "lat": 10.7573411448313,
+        "lng": 106.678184866905,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b0b7e1c0e517b00119fd80b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48129a",
+        "name": "Võ Văn Kiệt - Hồ Học Lãm 1",
+        "lat": 10.8017125083701,
+        "lng": 106.649898290634,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48129a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54968bfd3d90017ea7808",
+        "name": "Nguyễn Duy Trinh - Đỗ Xuân Hợp",
+        "lat": 10.791531914198,
+        "lng": 106.751103401184,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54968bfd3d90017ea7808&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58df5016dc195800111e04bd",
+        "name": "Yên Thế - Hồng Hà",
+        "lat": 10.7445238765742,
+        "lng": 106.539101600647,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58df5016dc195800111e04bd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "681884726dfb4b0018f8f035",
+        "name": "Lê Chính Đang - Lê Đình Chi",
+        "lat": 10.7970385413523,
+        "lng": 106.645912528038,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=681884726dfb4b0018f8f035&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587ef5dfb807da0011e33d59",
+        "name": "Nguyễn Văn Trỗi - Huỳnh Văn Bánh",
+        "lat": 10.7832480707178,
+        "lng": 106.788783073425,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587ef5dfb807da0011e33d59&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595dc2f03dcfc400106f2896",
+        "name": "Quốc lộ 1 - Rạch Láng Le 2",
+        "lat": 10.7790955238933,
+        "lng": 106.518802642822,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595dc2f03dcfc400106f2896&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b85f51afb9c00172dd1c2",
+        "name": "Nguyễn Thị Nghĩa - Lê Lai",
+        "lat": 10.5148176695387,
+        "lng": 107.088375091553,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b85f51afb9c00172dd1c2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68a588c04e89b100173b616b",
+        "name": "Tỉnh Lộ 8 - Bến Than (2)",
+        "lat": 10.8006744408059,
+        "lng": 106.660782694817,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68a588c04e89b100173b616b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54d5abfd3d90017ea7afe",
+        "name": "Đường số 1 - Cảng Phước Long",
+        "lat": 10.775708,
+        "lng": 106.700359,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54d5abfd3d90017ea7afe&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b862a1afb9c00172dd1ff",
+        "name": "Hàm Nghi - Phó Đức Chính",
+        "lat": 10.7765712954739,
+        "lng": 106.683694124222,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b862a1afb9c00172dd1ff&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a824e465058170011f6eab4",
+        "name": "Quang Trung - Lê Văn Thọ (2)",
+        "lat": 10.8023975256098,
+        "lng": 106.641572713852,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a824e465058170011f6eab4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481291",
+        "name": "Võ Văn Kiệt - Nguyễn Tri Phương 1",
+        "lat": 10.8248968380735,
+        "lng": 106.603265404701,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481291&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54c93bfd3d90017ea7ab8",
+        "name": "Lê Văn Chí - Linh Trung",
+        "lat": 10.8566669938921,
+        "lng": 106.639571785927,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54c93bfd3d90017ea7ab8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b19d34faf4ff60011d6ea52",
+        "name": "Nguyễn Tất Thành - Tôn Đản",
+        "lat": 10.8418834903115,
+        "lng": 106.746854782104,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b19d34faf4ff60011d6ea52&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf4",
+        "name": "Nút giao Ngã bảy Lý Thái Tổ",
+        "lat": 10.4997959914388,
+        "lng": 107.101764678955,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acf4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58af99abbd82540010390c39",
+        "name": "Nguyễn Hữu Cảnh - Nguyễn Bỉnh Khiêm",
+        "lat": 10.9827974297384,
+        "lng": 106.592037677765,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58af99abbd82540010390c39&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ecc16f998a001b25269e",
+        "name": "Nguyễn Oanh - Nguyễn Văn Lượng",
+        "lat": 10.7700419300508,
+        "lng": 106.682138442993,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ecc16f998a001b25269e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b7d0c1afb9c00172dc6a6",
+        "name": "Cống Quỳnh - Bùi Viện",
+        "lat": 10.8502078623705,
+        "lng": 106.652623414993,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b7d0c1afb9c00172dc6a6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b58bd1afb9c00172d9119",
+        "name": "Lê Văn Sỹ - Đặng Văn Ngữ",
+        "lat": 10.8566248466676,
+        "lng": 106.639485955238,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b58bd1afb9c00172d9119&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca321b02eb490011a0a40d",
+        "name": "QL1 - Cầu An Lập",
+        "lat": 10.75113811876,
+        "lng": 106.68364584446,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca321b02eb490011a0a40d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e5d66f998a001b25235a",
+        "name": "Cách Mạng Tháng Tám - Đỗ Thị Lời",
+        "lat": 10.8207659432755,
+        "lng": 106.69480919838,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e5d66f998a001b25235a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589d0b74b3bf7600110283d4",
+        "name": "Cầu Sài Gòn 4 (Thủ Đức 1)",
+        "lat": 10.8019180137061,
+        "lng": 106.63648724556,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589d0b74b3bf7600110283d4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b82a61afb9c00172dcdfd",
+        "name": "Trần Quang Khải - Trần Nhật Duật",
+        "lat": 10.8140847327392,
+        "lng": 106.633150577545,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b82a61afb9c00172dcdfd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7a74bfd3d90017e8f2c7",
+        "name": "Tô Hiến Thành – Sư Vạn Hạnh",
+        "lat": 10.8674828287814,
+        "lng": 106.803814172745,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7a74bfd3d90017e8f2c7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e9e96f998a001b2525ce",
+        "name": "Phan Đình Phùng - Huynh Văn Bánh",
+        "lat": 10.7727295794518,
+        "lng": 106.679091453552,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e9e96f998a001b2525ce&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6085188576340017d06682",
+        "name": "QL1-Tỉnh lộ 10 (2)",
+        "lat": 10.7940349390493,
+        "lng": 106.755899190903,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6085188576340017d06682&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a606a0f8576340017d0661e",
+        "name": "Nơ Trang Long - Nguyễn Xí",
+        "lat": 10.7733830435244,
+        "lng": 106.722918748856,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a606a0f8576340017d0661e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f14b6f998a001b2527f0",
+        "name": "Tân Kỳ Tân Quý - Lê Trọng Tấn",
+        "lat": 10.7497836602495,
+        "lng": 106.642361283302,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f14b6f998a001b2527f0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f9c88c5ed4001b27fb3d",
+        "name": "Quốc Lộ 1K - Đường GS1",
+        "lat": 10.7771984022141,
+        "lng": 106.701825857162,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f9c88c5ed4001b27fb3d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595d9b3b3dcfc400106f287e",
+        "name": "Quốc lộ 1 - An Phú Đông 12 (1)",
+        "lat": 10.8009484488364,
+        "lng": 106.660755872726,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595d9b3b3dcfc400106f287e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b50e51afb9c00172d886a",
+        "name": "Bà Hom - An Dương Vương",
+        "lat": 10.779127,
+        "lng": 106.697417,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b50e51afb9c00172d886a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0b",
+        "name": "Nam Kỳ Khởi Nghĩa - Lý Tự Trọng",
+        "lat": 10.7414565055181,
+        "lng": 106.598871946335,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad0b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4e581afb9c00172d862f",
+        "name": "Lê Hồng Phong - Trần Phú",
+        "lat": 10.8699588780888,
+        "lng": 106.733132600784,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4e581afb9c00172d862f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58afdbaebd82540010390c48",
+        "name": "Quốc lộ 1 - Cao tốc Trung Lương",
+        "lat": 10.8266882798502,
+        "lng": 106.760228276253,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58afdbaebd82540010390c48&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58ad6214bd82540010390be2",
+        "name": "Cộng Hòa - Hoàng Hoa Thám",
+        "lat": 10.7964536316791,
+        "lng": 106.647017598152,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58ad6214bd82540010390be2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58af8a0bbd82540010390c25",
+        "name": "Nam Kỳ Khởi Nghĩa - Võ Thị Sáu",
+        "lat": 10.7581316657523,
+        "lng": 106.715644598007,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58af8a0bbd82540010390c25&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48128e",
+        "name": "Võ Văn Kiệt - Cầu Chữ Y 2",
+        "lat": 10.8200546227367,
+        "lng": 106.689868569374,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48128e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58744e97b807da0011e33cb9",
+        "name": "Dương Bá Trạc - Hẻm 219",
+        "lat": 10.5455338805464,
+        "lng": 107.071552276611,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58744e97b807da0011e33cb9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54a48bfd3d90017ea7850",
+        "name": "Lã Xuân Oai - Lò Lu",
+        "lat": 10.7418073259385,
+        "lng": 106.656062516536,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54a48bfd3d90017ea7850&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58afcd9bbd82540010390c41",
+        "name": "Quốc lộ 1 - Nguyễn Hữu Trí 2",
+        "lat": 10.8428107736029,
+        "lng": 106.828694343567,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58afcd9bbd82540010390c41&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5bbc7163ca0577001164127f",
+        "name": "Lê Văn Lương - Cầu Long Kiểng (HCM)",
+        "lat": 10.8822808688795,
+        "lng": 106.769835948944,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5bbc7163ca0577001164127f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b6005b6fd4edb0019c7db25",
+        "name": "Trần Hưng Đạo - Nguyễn Biểu",
+        "lat": 10.7114030554397,
+        "lng": 106.59907579422,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b6005b6fd4edb0019c7db25&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b85481afb9c00172dd0f1",
+        "name": "Võ Văn Kiệt - Pasteur",
+        "lat": 10.8498285289366,
+        "lng": 106.587703227997,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b85481afb9c00172dd0f1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c4e7779f7400186741e4",
+        "name": "Hoàng Văn Thụ - Phạm Văn Hai",
+        "lat": 10.7170534584198,
+        "lng": 106.600942611694,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c4e7779f7400186741e4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587c8661b807da0011e33d43",
+        "name": "Lê Văn Sỹ - Hoàng Văn Thụ",
+        "lat": 10.7524240581789,
+        "lng": 106.669510602951,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587c8661b807da0011e33d43&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a87a41afb9c00172d24e9",
+        "name": "Trần Văn Giàu - Tỉnh Lộ 10",
+        "lat": 10.8619616916798,
+        "lng": 106.671023368835,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a87a41afb9c00172d24e9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5ad0644698d8fc001102e26b",
+        "name": "Lã Xuân Oai - Cầu Tăng Long (1)",
+        "lat": 10.7884439432433,
+        "lng": 106.617207527161,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5ad0644698d8fc001102e26b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd7bb766c880017188952",
+        "name": "Phạm Văn Đồng - Đường 20 (hướng đi Thủ Đức)",
+        "lat": 10.8462459116556,
+        "lng": 106.52880191803,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd7bb766c880017188952&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56df857fc062921100c143e7",
+        "name": "Trần Quốc Hoàn - Phan Thúc Duyện",
+        "lat": 10.7852927046947,
+        "lng": 106.703263521194,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56df857fc062921100c143e7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae75debfd3d90017e8f082",
+        "name": "Cao Thắng – Võ Văn Tần 1",
+        "lat": 10.8536955999934,
+        "lng": 106.679220199585,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae75debfd3d90017e8f082&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a824dc05058170011f6eab2",
+        "name": "Quang Trung - Lê Văn Thọ (1)",
+        "lat": 10.7547007899372,
+        "lng": 106.669499874115,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a824dc05058170011f6eab2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b836d1afb9c00172dcfa0",
+        "name": "Lê Duẩn - Nguyễn Bỉnh Khiêm",
+        "lat": 10.8495545656016,
+        "lng": 106.718916893005,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b836d1afb9c00172dcfa0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf3",
+        "name": "Ba Tháng Hai - Lý Thái Tổ",
+        "lat": 10.809674419948,
+        "lng": 106.712254285812,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acf3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b50c11afb9c00172d8843",
+        "name": "An Dương Vương - Đường số 7",
+        "lat": 10.757040746338,
+        "lng": 106.717768907547,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b50c11afb9c00172d8843&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623f51a6f998a001b252900",
+        "name": "Quốc Lộ 13 - Nguyễn Thị Nhung",
+        "lat": 10.761236,
+        "lng": 106.700404,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623f51a6f998a001b252900&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0a",
+        "name": "Hoàng Văn Thụ - Xuân Diệu",
+        "lat": 10.7444131987789,
+        "lng": 106.688919067383,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad0a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58744dd9b807da0011e33cb5",
+        "name": "Quốc lộ 50 - Tạ Quang Bửu",
+        "lat": 10.8143956125566,
+        "lng": 106.678592562675,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58744dd9b807da0011e33cb5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ede438230ee50017d04a79",
+        "name": "Mỹ Phước Tân Vạn - ĐT 743A (1)",
+        "lat": 10.8295124133666,
+        "lng": 106.52455329895,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ede438230ee50017d04a79&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481290",
+        "name": "Võ Văn Kiệt - An Bình",
+        "lat": 10.7801916331905,
+        "lng": 106.516485214233,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481290&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58af8b69bd82540010390c28",
+        "name": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 1",
+        "lat": 10.7843863222755,
+        "lng": 106.684466600418,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58af8b69bd82540010390c28&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589b3ceeb3bf7600110283c3",
+        "name": "QL 22 - Nguyễn Văn Bứa 1",
+        "lat": 10.861629788009,
+        "lng": 106.678490638733,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589b3ceeb3bf7600110283c3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58ad7291bd82540010390bf9",
+        "name": "Phan Đăng Lưu - Nguyễn Văn Đậu",
+        "lat": 10.705952846726,
+        "lng": 106.597981452942,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58ad7291bd82540010390bf9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad05",
+        "name": "Điện Biên Phủ - Đinh Tiên Hoàng",
+        "lat": 10.8616403246391,
+        "lng": 106.663309335709,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad05&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68a589c84e89b100173b629d",
+        "name": "Tỉnh Lộ 8 - Sông Lu (2)",
+        "lat": 10.6562217600296,
+        "lng": 106.5558385849,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68a589c84e89b100173b629d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b84771afb9c00172dd076",
+        "name": "Nguyễn Du - Công xã Paris",
+        "lat": 10.7704213643614,
+        "lng": 106.631401777267,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b84771afb9c00172dd076&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6922928544912200174bc755",
+        "name": "Quốc Lộ 51 - Cách Mạng Tháng 8 (Phú Mỹ)",
+        "lat": 10.7554702370632,
+        "lng": 106.723374724388,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6922928544912200174bc755&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a607f078576340017d0666f",
+        "name": "QL1-Phan Văn Hớn (H.Hoc Mon)",
+        "lat": 10.9967629705727,
+        "lng": 106.684069633484,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a607f078576340017d0666f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a824ee15058170011f6eab6",
+        "name": "Nguyễn Oanh - Phan Văn Trị (1)",
+        "lat": 10.820344420197,
+        "lng": 106.683468818665,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a824ee15058170011f6eab6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b632b60fd4edb0019c7dc12",
+        "name": "Hồng Bàng - Ngô Quyền 1",
+        "lat": 10.8001000770077,
+        "lng": 106.669188737869,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b632b60fd4edb0019c7dc12&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59414c883dcfc400106f260b",
+        "name": "Cộng Hòa - Bình Giã",
+        "lat": 10.8264933293527,
+        "lng": 106.760866641998,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59414c883dcfc400106f260b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f1008c5ed4001b27f41f",
+        "name": "Quốc Lộ 22 - Võ Văn Điều",
+        "lat": 10.8262720340397,
+        "lng": 106.714013814926,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f1008c5ed4001b27f41f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587463bab807da0011e33cd3",
+        "name": "Quốc lộ 1 - Lê Thị Hoa",
+        "lat": 10.7652936908376,
+        "lng": 106.707260012627,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587463bab807da0011e33cd3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481287",
+        "name": "Võ Văn Kiệt - Ký Con",
+        "lat": 10.7994361321658,
+        "lng": 106.619310379028,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481287&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a861e1afb9c00172d23ad",
+        "name": "Nguyễn Hữu Thọ - Phạm Hữu Lầu",
+        "lat": 10.7946620093783,
+        "lng": 106.650145053864,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a861e1afb9c00172d23ad&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a88a01afb9c00172d25d1",
+        "name": "Trần Văn Giàu - Đường Thanh Niên",
+        "lat": 10.9836610796409,
+        "lng": 106.577167510986,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a88a01afb9c00172d25d1&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4e201afb9c00172d85f9",
+        "name": "Hồng Bàng - Tạ Uyên",
+        "lat": 10.7980555437486,
+        "lng": 106.658374071121,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4e201afb9c00172d85f9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58b57a6c17139d0010f35d65",
+        "name": "Xa Lộ Hà Nội - Đường D13",
+        "lat": 10.8112288386645,
+        "lng": 106.695485115051,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58b57a6c17139d0010f35d65&bg=black&w=520&h=300"
+    },
+    {
+        "id": "62da3e390637a10017d706ff",
+        "name": "Quốc Lộ 13 - Đinh Thị Thi 1",
+        "lat": 10.773652,
+        "lng": 106.689579,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=62da3e390637a10017d706ff&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56f11ac33ac17b11001c504c",
+        "name": "Nguyễn Văn Trỗi - Hoàng Văn Thụ 1",
+        "lat": 10.7971175831128,
+        "lng": 106.664553880692,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56f11ac33ac17b11001c504c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "631813ebc9eae60017a196b0",
+        "name": "Cầu Sài Gòn 8 (Thủ Đức)",
+        "lat": 10.7958318345615,
+        "lng": 106.515905857086,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=631813ebc9eae60017a196b0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587475abb807da0011e33cea",
+        "name": "Trường Sơn - Cửu Long",
+        "lat": 10.774969,
+        "lng": 106.686639,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587475abb807da0011e33cea&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ede227230ee50017d0480b",
+        "name": "Mỹ Phước Tân Vạn - Thủ Khoa Huân (1)",
+        "lat": 10.777922,
+        "lng": 106.689658,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ede227230ee50017d0480b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ede25b230ee50017d0484d",
+        "name": "Mỹ Phước Tân Vạn - Thủ Khoa Huân (2)",
+        "lat": 10.7928387592472,
+        "lng": 106.653594374657,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ede25b230ee50017d0484d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf8",
+        "name": "Ba Tháng Hai - Cao Thắng",
+        "lat": 10.890809558636,
+        "lng": 106.613377332687,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acf8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7938bfd3d90017e8f226",
+        "name": "Quốc Lộ 1- Công ty Pouyen 3 (Cổng)",
+        "lat": 10.6846307310993,
+        "lng": 106.566883921623,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7938bfd3d90017e8f226&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56df83d8c062921100c143e3",
+        "name": "Nút giao Nguyễn Thái Sơn 1 (Hồng Hà)",
+        "lat": 10.7845127944049,
+        "lng": 106.678436994553,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56df83d8c062921100c143e3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca308302eb490011a0a403",
+        "name": "QL1 - Tân Tạo Chợ Đệm 1",
+        "lat": 10.7793063144528,
+        "lng": 106.682181358337,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca308302eb490011a0a403&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56df8159c062921100c143dc",
+        "name": "Nút giao Thủ Đức (Lê Văn Việt)",
+        "lat": 10.7976866831738,
+        "lng": 106.672310829163,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56df8159c062921100c143dc&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589b3f7db3bf7600110283c6",
+        "name": "QL 22 - Nguyễn Văn Bứa 2",
+        "lat": 10.7782523601788,
+        "lng": 106.573798656464,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589b3f7db3bf7600110283c6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e6706f998a001b25239b",
+        "name": "Hùng Vương - Trần Nhân Tôn",
+        "lat": 10.7702052976598,
+        "lng": 106.697469949722,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e6706f998a001b25239b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a88521afb9c00172d2592",
+        "name": "Kinh Dương Vương - Hồ Học Lãm",
+        "lat": 10.775301268578,
+        "lng": 106.70676112175,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a88521afb9c00172d2592&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b3c59fbfd3d90017e9ace8",
+        "name": "Vĩnh Lộc - Quách Điêu",
+        "lat": 10.8254711543978,
+        "lng": 106.71435713768,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b3c59fbfd3d90017e9ace8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a824c905058170011f6eab0",
+        "name": "Nút giao Bốn Xã 2 (Hòa Bình)",
+        "lat": 10.780518,
+        "lng": 106.695957,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a824c905058170011f6eab0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7c73bfd3d90017e8f3ed",
+        "name": "Lý Thường Kiệt - Tô Hiến Thành 2",
+        "lat": 10.8016071209638,
+        "lng": 106.651110649109,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7c73bfd3d90017e8f3ed&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63195512c9eae60017a1c279",
+        "name": "Nguyễn Trãi - Cống Quỳnh 1",
+        "lat": 10.7958581819231,
+        "lng": 106.596806645393,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63195512c9eae60017a1c279&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623df636f998a001b251e92",
+        "name": "Hai Bà Trưng - Trần Cao Vân",
+        "lat": 10.7747690150491,
+        "lng": 106.647881269455,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623df636f998a001b251e92&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f1b78c5ed4001b27f4a9",
+        "name": "Quốc Lộ 13 - Cầu Vĩnh Bình",
+        "lat": 10.7935237967208,
+        "lng": 106.756081581116,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f1b78c5ed4001b27f4a9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595dc5ac3dcfc400106f2898",
+        "name": "Quốc lộ 1 - BQB Đường dẫn cầu vượt Ngã 4 Ga (hướng đi An Sương)",
+        "lat": 11.0027871174418,
+        "lng": 106.675293445587,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595dc5ac3dcfc400106f2898&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8254f25058170011f6eac5",
+        "name": "Xô Viết Nghệ Tĩnh - Nguyễn Xí 2",
+        "lat": 10.7704951431996,
+        "lng": 106.658336520195,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8254f25058170011f6eac5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad20",
+        "name": "Hồng Bàng - Ngô Quyền 2",
+        "lat": 10.8199228965258,
+        "lng": 106.630790233612,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad20&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfa",
+        "name": "Nút giao Công Trường Dân Chủ",
+        "lat": 10.8659497751896,
+        "lng": 106.723519563675,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acfa&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8251575058170011f6eabc",
+        "name": "Lê Văn Việt - Đình Phong Phú 2",
+        "lat": 10.7480971664479,
+        "lng": 106.635103225708,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8251575058170011f6eabc&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b59291afb9c00172d912b",
+        "name": "Lê Văn Sỹ - Nguyễn Trọng Tuyển",
+        "lat": 10.8261245037402,
+        "lng": 106.689493060112,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b59291afb9c00172d912b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65f33bfd3d90017eaa405",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 3 (Nhánh chính cầu Thủ Thiêm 1)",
+        "lat": 10.770674,
+        "lng": 106.702639,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65f33bfd3d90017eaa405&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6061868576340017d06611",
+        "name": "Quang Trung - Bà Triệu",
+        "lat": 10.8551338847726,
+        "lng": 106.607385277748,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6061868576340017d06611&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7759bfd3d90017e8f162",
+        "name": "Nguyễn Tất Thành - Cầu Khánh Hội",
+        "lat": 10.7632541910898,
+        "lng": 106.703810691834,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7759bfd3d90017e8f162&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b55111afb9c00172d8e2e",
+        "name": "Quang Trung - Phạm Văn Chiêu",
+        "lat": 10.759206770879,
+        "lng": 106.665605306625,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b55111afb9c00172d8e2e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58afccadbd82540010390c3f",
+        "name": "Quốc lộ 1 - Nguyễn Hữu Trí 1",
+        "lat": 10.7923592320866,
+        "lng": 106.694144010544,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58afccadbd82540010390c3f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf7",
+        "name": "Nút giao Ngã sáu Cộng Hòa",
+        "lat": 10.8016545453012,
+        "lng": 106.71106338501,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acf7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd767766c880017188950",
+        "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Sân bay)",
+        "lat": 10.5881433260604,
+        "lng": 107.055244445801,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd767766c880017188950&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f16e8c5ed4001b27f482",
+        "name": "Cao tốc LT-DG - Trạm thu phí Long Phước",
+        "lat": 10.8529158676222,
+        "lng": 106.632431745529,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f16e8c5ed4001b27f482&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68a5871d4e89b100173b5f37",
+        "name": "Tỉnh Lộ 8 - Hà Duy Phiên (1)",
+        "lat": 10.8647433460363,
+        "lng": 106.724211573601,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68a5871d4e89b100173b5f37&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e3566f998a001b25226d",
+        "name": "Lê Văn Sỹ - Trường Sa",
+        "lat": 10.7314425344033,
+        "lng": 106.720451116562,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e3566f998a001b25226d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cdd26766c880017188974",
+        "name": "Nút giao Lê Đại Hành 2 (Lê Đại Hành)",
+        "lat": 10.7442498171975,
+        "lng": 106.650842428207,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdd26766c880017188974&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad03",
+        "name": "Nam Kỳ Khởi Nghĩa - Nguyễn Đình Chiểu",
+        "lat": 10.7667745592657,
+        "lng": 106.706455349922,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad03&bg=black&w=520&h=300"
+    },
+    {
+        "id": "631828cac9eae60017a19f50",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 1",
+        "lat": 10.7980089972696,
+        "lng": 106.724379211664,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=631828cac9eae60017a19f50&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58d7c2e6c1e33c00112b321e",
+        "name": "Trường Chinh - Phan Văn Hớn 1 (Q12-HM)",
+        "lat": 10.8045368770814,
+        "lng": 106.792543530464,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58d7c2e6c1e33c00112b321e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b5b481afb9c00172d92a8",
+        "name": "Trường Chinh - Trương Công Định",
+        "lat": 10.7693146796196,
+        "lng": 106.526484489441,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b5b481afb9c00172d92a8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48129e",
+        "name": "Đồng Văn Cống - Phan Văn Đáng",
+        "lat": 10.7998787622235,
+        "lng": 106.706600189209,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48129e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd372766c880017188940",
+        "name": "Nút giao Cây Gõ 2 (Minh Phụng)",
+        "lat": 10.8135578170586,
+        "lng": 106.579318642616,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd372766c880017188940&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a60839c8576340017d0667c",
+        "name": "QL1 - Hương Lộ 2 (2)",
+        "lat": 10.7982347044359,
+        "lng": 106.560130119324,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a60839c8576340017d0667c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65f64bfd3d90017eaa41f",
+        "name": "Xô Viết Nghệ Tĩnh - Đường D5",
+        "lat": 10.8696796650458,
+        "lng": 106.775951385498,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65f64bfd3d90017eaa41f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63bd1e95bfd3d90017ec3cd5",
+        "name": "Nguyễn Lương Bằng - Hoàng Quốc Việt",
+        "lat": 10.7667007795163,
+        "lng": 106.64261341095,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63bd1e95bfd3d90017ec3cd5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd70e766c88001718894e",
+        "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Thủ Đức)",
+        "lat": 10.7443815765443,
+        "lng": 106.656072735786,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd70e766c88001718894e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595ddc123dcfc400106f28ba",
+        "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 1",
+        "lat": 10.8671930769878,
+        "lng": 106.788429021835,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595ddc123dcfc400106f28ba&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b55020bfd3d90017ea7cb7",
+        "name": "Nút giao Mỹ Thủy (6)",
+        "lat": 10.9835768212251,
+        "lng": 106.666603088379,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b55020bfd3d90017ea7cb7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b19d2f9af4ff60011d6ea4f",
+        "name": "Nguyễn Tất Thành - Xóm Chiếu",
+        "lat": 10.8346442594662,
+        "lng": 106.664371490479,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b19d2f9af4ff60011d6ea4f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4d781afb9c00172d8571",
+        "name": "An Dương Vương - Lê Hồng Phong",
+        "lat": 10.8028664980496,
+        "lng": 106.709464788437,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4d781afb9c00172d8571&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8c381afb9c00172d28b6",
+        "name": "Dương Bá Trạc - đường 9A",
+        "lat": 10.7592436616732,
+        "lng": 106.713917255402,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8c381afb9c00172d28b6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595f91653dcfc400106f28f6",
+        "name": "Quốc lộ 1 - Cầu vượt An Sương (Song hành QL 22)",
+        "lat": 10.7223980522437,
+        "lng": 106.600669026375,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595f91653dcfc400106f28f6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481292",
+        "name": "Võ Văn Kiệt - Phạm Phú Thứ",
+        "lat": 10.7708851167585,
+        "lng": 106.551203727722,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481292&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acff",
+        "name": "Hai Bà Trưng - Lý Chính Thắng",
+        "lat": 10.8005216285264,
+        "lng": 106.664301753044,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515acff&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b811d1afb9c00172dcc1d",
+        "name": "Trần Hưng Đạo - Nguyễn Cư Trinh",
+        "lat": 10.7379990877391,
+        "lng": 106.721824407578,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b811d1afb9c00172dcc1d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b548ecbfd3d90017ea77d2",
+        "name": "Nguyễn Duy Trinh - Võ Chí Công 1",
+        "lat": 10.7801863634439,
+        "lng": 106.684262752533,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b548ecbfd3d90017ea77d2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c48127d",
+        "name": "Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu A)",
+        "lat": 10.7505847415039,
+        "lng": 106.660031676292,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48127d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6792f03d8c5ed4001b27f378",
+        "name": "Quốc Lộ 50 - Cổng chào Long An",
+        "lat": 10.898568926428,
+        "lng": 106.820733547211,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6792f03d8c5ed4001b27f378&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e7076f998a001b2523ea",
+        "name": "Lý Thái Tổ - Sư Vạn Hạnh",
+        "lat": 10.8395020450536,
+        "lng": 106.611746549606,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e7076f998a001b2523ea&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5aab1f852d266a0017e5afd4",
+        "name": "Võ Chí Công - Cầu Phú Mỹ",
+        "lat": 10.840819218446,
+        "lng": 106.74354493618,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5aab1f852d266a0017e5afd4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "586e25e1f9fab7001111b0ae",
+        "name": "Trường Chinh - Tân Kỳ Tân Quý",
+        "lat": 10.7298402682344,
+        "lng": 106.581319570541,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=586e25e1f9fab7001111b0ae&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9dde8e766c880017188c9a",
+        "name": "Nút giao Hàng Xanh 4 (Cầu Văn Thánh - Hàng Xanh)",
+        "lat": 10.5004711387125,
+        "lng": 107.099533081055,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9dde8e766c880017188c9a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9ddf0f766c880017188c9e",
+        "name": "Nút giao Hàng Xanh 6 (Cầu Điện Biên Phủ - Hàng Xanh)",
+        "lat": 10.7817936319045,
+        "lng": 106.512622833252,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9ddf0f766c880017188c9e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae76ddbfd3d90017e8f11b",
+        "name": "Khánh Hội -  Hoàng Diệu",
+        "lat": 10.7778940148849,
+        "lng": 106.701037287712,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae76ddbfd3d90017e8f11b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b66035bfd3d90017eaa48e",
+        "name": "Nơ Trang Long - Nguyễn Huy Lượng (Bệnh viện Ung Bướu)",
+        "lat": 10.7545321437295,
+        "lng": 106.727795004845,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b66035bfd3d90017eaa48e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481295",
+        "name": "Võ Văn Kiệt - Cầu Chà Và 1 (dạ cầu)",
+        "lat": 10.7860304558102,
+        "lng": 106.690008044243,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481295&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8278f35058170011f6eaed",
+        "name": "Nguyễn Văn Linh - Phạm Hùng 1",
+        "lat": 10.7743421575788,
+        "lng": 106.688017845154,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8278f35058170011f6eaed&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6084208576340017d0667e",
+        "name": "QL1 - Tân Tạo Chợ Đệm 2",
+        "lat": 10.8049478837466,
+        "lng": 106.791937351227,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6084208576340017d0667e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a825ab55058170011f6ead2",
+        "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (2)",
+        "lat": 10.8062968247449,
+        "lng": 106.6783618927,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a825ab55058170011f6ead2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b0b7bbe0e517b00119fd806",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 2",
+        "lat": 10.8267936584446,
+        "lng": 106.679542064667,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b0b7bbe0e517b00119fd806&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8255a55058170011f6eac7",
+        "name": "BX Miền Đông - Đinh Bộ Lĩnh 1",
+        "lat": 10.7675334356397,
+        "lng": 106.702040433884,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8255a55058170011f6eac7&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c481280",
+        "name": "Mai Chí Thọ - Lương Định Của 2",
+        "lat": 10.8024818353159,
+        "lng": 106.697963476181,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c481280&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b54dcbbfd3d90017ea7ba8",
+        "name": "Quốc Lộ 1 - Cổng ĐH Quốc gia TPHCM",
+        "lat": 10.7587798913611,
+        "lng": 106.692545413971,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b54dcbbfd3d90017ea7ba8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ed9b6f998a001b2526cd",
+        "name": "Vòng xoay Gò Vấp (1)",
+        "lat": 10.7794696770349,
+        "lng": 106.695173978806,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ed9b6f998a001b2526cd&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58175c81edeb6c0012a2d5c2",
+        "name": "Mai Chí Thọ - Trần Não 2",
+        "lat": 10.7980818909152,
+        "lng": 106.723358631134,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58175c81edeb6c0012a2d5c2&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e7b76f998a001b25242d",
+        "name": "Đinh Bộ Lĩnh - Bùi Đình Túy",
+        "lat": 10.6524259645754,
+        "lng": 106.654586791992,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e7b76f998a001b25242d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66f126e8538c780017c9362f",
+        "name": "Nguyễn Chí Thanh - Nguyễn Kim",
+        "lat": 10.767891793263,
+        "lng": 106.685453653336,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66f126e8538c780017c9362f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b7d8a1afb9c00172dc71f",
+        "name": "Lê Lai - Phạm Hồng Thái",
+        "lat": 10.7315637581429,
+        "lng": 106.720327734947,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b7d8a1afb9c00172dc71f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63bd1f48bfd3d90017ec3d19",
+        "name": "Huỳnh Tấn Phát - Nguyễn Thị Thập",
+        "lat": 10.6647884855642,
+        "lng": 106.569807529449,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63bd1f48bfd3d90017ec3d19&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b25a1dcf13cba001124e710",
+        "name": "Lý Tự Trọng - Pasteur 1",
+        "lat": 10.8372522994913,
+        "lng": 106.732848286629,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b25a1dcf13cba001124e710&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad18",
+        "name": "Hai Bà Trưng - Lê Duẩn",
+        "lat": 10.7577416756903,
+        "lng": 106.674488782883,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad18&bg=black&w=520&h=300"
+    },
+    {
+        "id": "56de42f611f398ec0c4812a0",
+        "name": "Nguyễn Thị Định - Đường A",
+        "lat": 10.8675723883698,
+        "lng": 106.615512371063,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c4812a0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b50841afb9c00172d880d",
+        "name": "Tùng Thiện Vương - Xóm Củi",
+        "lat": 10.7982289959934,
+        "lng": 106.724311485887,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b50841afb9c00172d880d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58afea5dbd82540010390c4d",
+        "name": "Quốc lộ 1 - Bùi Thanh Khiết 1",
+        "lat": 10.797381,
+        "lng": 106.672665,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58afea5dbd82540010390c4d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cdc1d766c88001718896c",
+        "name": "Trường Sơn - Hậu Giang",
+        "lat": 10.8142322689639,
+        "lng": 106.712779998779,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdc1d766c88001718896c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68fae2966b936b00172186a6",
+        "name": "Võ Chí Công - đường số 5 (1)",
+        "lat": 10.8036621687159,
+        "lng": 106.721674203873,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68fae2966b936b00172186a6&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca2cf302eb490011a0a3eb",
+        "name": "Cầu vượt An Sương 3",
+        "lat": 10.7199365991593,
+        "lng": 106.655665040016,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca2cf302eb490011a0a3eb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "589b46b3b3bf7600110283d0",
+        "name": "Hà Huy Giáp - Cầu Phú Long 2",
+        "lat": 10.8756221051048,
+        "lng": 106.751575469971,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=589b46b3b3bf7600110283d0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd653766c88001718894c",
+        "name": "Kha Vạn Cân - Võ Văn Ngân",
+        "lat": 10.7509852813336,
+        "lng": 106.658996343613,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd653766c88001718894c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58af8eb2bd82540010390c30",
+        "name": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 1",
+        "lat": 10.829417573494,
+        "lng": 106.6819024086,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58af8eb2bd82540010390c30&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b0b7d240e517b00119fd809",
+        "name": "Hương Lộ 2 (Số 878)",
+        "lat": 10.8733304866588,
+        "lng": 106.765040159225,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b0b7d240e517b00119fd809&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595f8d233dcfc400106f28f0",
+        "name": "Quốc lộ 1 - Quang Trung 1 (hướng đi Bình Phước)",
+        "lat": 10.8104489957249,
+        "lng": 106.7762196064,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595f8d233dcfc400106f28f0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8e641afb9c00172d2a7e",
+        "name": "Nguyễn Văn Linh - Nguyễn Thị Thập 1",
+        "lat": 10.7673753365528,
+        "lng": 106.699846386909,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8e641afb9c00172d2a7e&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7c12bfd3d90017e8f3c0",
+        "name": "Ba Tháng Hai - Lê Đại Hành 2",
+        "lat": 10.8242434860543,
+        "lng": 106.714024543762,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7c12bfd3d90017e8f3c0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5b0b835b0e517b00119fd80d",
+        "name": "Tam Bình (Số 81)",
+        "lat": 10.7974969832732,
+        "lng": 106.720730066299,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5b0b835b0e517b00119fd80d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b82da1afb9c00172dce94",
+        "name": "Hai Bà Trưng - Nguyễn Hữu Cầu",
+        "lat": 10.7544425503934,
+        "lng": 106.642913818359,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b82da1afb9c00172dce94&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b4e8e1afb9c00172d865c",
+        "name": "Lý Thường Kiệt - Nguyễn Chí Thanh",
+        "lat": 10.7550749733738,
+        "lng": 106.67188167572,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b4e8e1afb9c00172d865c&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b7f9f1afb9c00172dca50",
+        "name": "Nguyễn Đình Chiểu - Nguyễn Bỉnh Khiêm",
+        "lat": 10.9827974297384,
+        "lng": 106.591501235962,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b7f9f1afb9c00172dca50&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58747923b807da0011e33cf5",
+        "name": "Nút giao Bảy Hiền 2 (Hoàng Văn Thụ)",
+        "lat": 10.7636125538021,
+        "lng": 106.659564971924,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58747923b807da0011e33cf5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5875d4f8b807da0011e33d1a",
+        "name": "Tạ Quang Bửu - Phạm Hùng 1",
+        "lat": 10.8607025631008,
+        "lng": 106.715140342712,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5875d4f8b807da0011e33d1a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "583f976361cfea0012cf68f9",
+        "name": "Nguyễn Thị Định - Lê Phụng Hiểu",
+        "lat": 10.7899721239599,
+        "lng": 106.514682769775,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f976361cfea0012cf68f9&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662b80721afb9c00172dcb28",
+        "name": "Nguyễn Văn Thủ - Trần Doãn Khanh",
+        "lat": 10.7894293572155,
+        "lng": 106.595449447632,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662b80721afb9c00172dcb28&bg=black&w=520&h=300"
+    },
+    {
+        "id": "586e1f18f9fab7001111b0a5",
+        "name": "Cộng Hòa - Trường Chinh",
+        "lat": 10.7482763568618,
+        "lng": 106.58505320549,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=586e1f18f9fab7001111b0a5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65f8dbfd3d90017eaa434",
+        "name": "Xô Viết Nghệ Tĩnh - Phan Văn Hân (Cầu Thị Nghè)",
+        "lat": 10.7929019935409,
+        "lng": 106.754863858223,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65f8dbfd3d90017eaa434&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63ae7cfcbfd3d90017e8f422",
+        "name": "Cách Mạng Tháng Tám – Phạm Văn Hai",
+        "lat": 10.8012804197692,
+        "lng": 106.711969971657,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63ae7cfcbfd3d90017e8f422&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b65fa9bfd3d90017eaa449",
+        "name": "Xô Viết Nghệ Tĩnh - Nguyễn Văn Lạc",
+        "lat": 10.8105965337175,
+        "lng": 106.709175109863,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b65fa9bfd3d90017eaa449&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623e5066f998a001b252317",
+        "name": "Nguyễn Thị Minh Khai - Tôn Thất Tùng",
+        "lat": 10.7965800987319,
+        "lng": 106.613742113113,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623e5066f998a001b252317&bg=black&w=520&h=300"
+    },
+    {
+        "id": "66b1c158779f740018673eb4",
+        "name": "Hùng Vương - Lê Hồng Phong",
+        "lat": 10.740497286869,
+        "lng": 106.700946092606,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=66b1c158779f740018673eb4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d8cd1f9766c880017188938",
+        "name": "Nguyễn Tri Phương - Trần Phú",
+        "lat": 10.7794538677567,
+        "lng": 106.678587198257,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cd1f9766c880017188938&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595da2dd3dcfc400106f2885",
+        "name": "Quốc lộ 1 - Đường 15 (2)",
+        "lat": 10.809194919668,
+        "lng": 106.756038665771,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595da2dd3dcfc400106f2885&bg=black&w=520&h=300"
+    },
+    {
+        "id": "595f80e83dcfc400106f28e4",
+        "name": "Quốc lộ 1 - BQB Cầu vượt Tân Thới Hiệp B (hướng Bình Phước)",
+        "lat": 10.767428,
+        "lng": 106.674596,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=595f80e83dcfc400106f28e4&bg=black&w=520&h=300"
+    },
+    {
+        "id": "631955e7c9eae60017a1c30a",
+        "name": "Cách Mạng Tháng Tám – Hòa Hưng",
+        "lat": 10.8262720340397,
+        "lng": 106.689149737358,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=631955e7c9eae60017a1c30a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a607ea98576340017d0666d",
+        "name": "QL1-Phan Văn Hớn (Q12)",
+        "lat": 10.7711380723106,
+        "lng": 106.672922372818,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a607ea98576340017d0666d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b548c3bfd3d90017ea77c0",
+        "name": "Nguyễn Duy Trinh - Nguyễn Thị Tư",
+        "lat": 10.7143336880567,
+        "lng": 106.736941337585,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b548c3bfd3d90017ea77c0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63195556c9eae60017a1c2ba",
+        "name": "Nguyễn Trãi - Cống Quỳnh 2",
+        "lat": 10.8049689609963,
+        "lng": 106.666592359543,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63195556c9eae60017a1c2ba&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca301902eb490011a0a400",
+        "name": "QL1 - Hương Lộ 2 (1)",
+        "lat": 10.8161291568165,
+        "lng": 106.600910425186,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca301902eb490011a0a400&bg=black&w=520&h=300"
+    },
+    {
+        "id": "583f958161cfea0012cf68f5",
+        "name": "Nguyễn Thị Định - Đường C",
+        "lat": 10.6241668905482,
+        "lng": 107.054214477539,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f958161cfea0012cf68f5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8253615058170011f6eabf",
+        "name": "Đinh Bộ Lĩnh - Bạch Đằng 1",
+        "lat": 10.776014,
+        "lng": 106.691731,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8253615058170011f6eabf&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68fae2b66b936b00172186e5",
+        "name": "Võ Chí Công - đường số 5 (2)",
+        "lat": 10.8029560769717,
+        "lng": 106.610062122345,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68fae2b66b936b00172186e5&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68a5873d4e89b100173b5f60",
+        "name": "Tỉnh Lộ 8 - Hà Duy Phiên (2)",
+        "lat": 10.7763868520664,
+        "lng": 106.663513183594,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68a5873d4e89b100173b5f60&bg=black&w=520&h=300"
+    },
+    {
+        "id": "6623ec376f998a001b252671",
+        "name": "Tô Ký - Nguyễn Văn Quá",
+        "lat": 10.8041364085074,
+        "lng": 106.598539352417,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=6623ec376f998a001b252671&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5d9dde1f766c880017188c98",
+        "name": "Nút giao Hàng Xanh 3 (Cầu Thị Nghè - Hàng Xanh)",
+        "lat": 10.795078299042,
+        "lng": 106.718080043793,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d9dde1f766c880017188c98&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58b5528e17139d0010f35d52",
+        "name": "Xa Lộ Hà Nội - Đường D400",
+        "lat": 10.76009,
+        "lng": 106.669124,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58b5528e17139d0010f35d52&bg=black&w=520&h=300"
+    },
+    {
+        "id": "63b664d2bfd3d90017eaaa0f",
+        "name": "CT Trung Lương - Võ Trần Chí 1",
+        "lat": 10.8015070028935,
+        "lng": 106.665642857552,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=63b664d2bfd3d90017eaaa0f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "692291bb44912200174bc6e8",
+        "name": "Quốc Lộ 51 - KCN Mỹ Xuân A",
+        "lat": 10.772307988975,
+        "lng": 106.698939800262,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=692291bb44912200174bc6e8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58d7b5a7c1e33c00112b320a",
+        "name": "Nút giao Chợ Đệm 1 (CT Trung Lương - Bùi Thanh Khiết)",
+        "lat": 10.7445238765742,
+        "lng": 106.701600551605,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58d7b5a7c1e33c00112b320a&bg=black&w=520&h=300"
+    },
+    {
+        "id": "58aff01fbd82540010390c50",
+        "name": "Quốc lộ 1 - Bùi Thanh Khiết 2",
+        "lat": 10.7993728992472,
+        "lng": 106.677471399307,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=58aff01fbd82540010390c50&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a6085fb8576340017d06686",
+        "name": "QL1-Tỉnh lộ 10B (1)",
+        "lat": 10.8030930799773,
+        "lng": 106.709395051003,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6085fb8576340017d06686&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca31d602eb490011a0a40b",
+        "name": "QL1 - Hồ Học Lãm",
+        "lat": 10.8010116814233,
+        "lng": 106.738277077675,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca31d602eb490011a0a40b&bg=black&w=520&h=300"
+    },
+    {
+        "id": "662a8d821afb9c00172d29c8",
+        "name": "Nguyễn Thị Thập - Tân Mỹ",
+        "lat": 10.7778307774358,
+        "lng": 106.656131744385,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=662a8d821afb9c00172d29c8&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68ae7ee47d735d00173c7492",
+        "name": "Cầu Bình Triệu (2) hướng vòng xoay",
+        "lat": 10.7731722,
+        "lng": 106.7702866,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68ae7ee47d735d00173c7492&bg=black&w=520&h=300"
+    },
+    {
+        "id": "68188b296dfb4b0018f8f9a3",
+        "name": "Võ Trần Chí - Kênh 10 (2)",
+        "lat": 10.7715702042204,
+        "lng": 106.693022847176,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=68188b296dfb4b0018f8f9a3&bg=black&w=520&h=300"
+    },
+    {
+        "id": "692292c044912200174bc76d",
+        "name": "Quốc Lộ 51 - Nguyễn Văn Linh",
+        "lat": 10.8118084503619,
+        "lng": 106.519918441772,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=692292c044912200174bc76d&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad1f",
+        "name": "Hùng Vương - Ngô Gia Tự",
+        "lat": 10.7420784148825,
+        "lng": 106.688178777695,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad1f&bg=black&w=520&h=300"
+    },
+    {
+        "id": "59ca2d9d02eb490011a0a3f0",
+        "name": "QL1 - Phan Văn Hớn 2",
+        "lat": 10.9791953504657,
+        "lng": 106.616520881653,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=59ca2d9d02eb490011a0a3f0&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5a8256df5058170011f6eacb",
+        "name": "BX Miền Đông - Quốc Lộ 13 (2)",
+        "lat": 10.7800124617515,
+        "lng": 106.68729364872,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a8256df5058170011f6eacb&bg=black&w=520&h=300"
+    },
+    {
+        "id": "587c8c20b807da0011e33d47",
+        "name": "Hoàng Văn Thụ - Hồ Văn Huê",
+        "lat": 10.7463895818732,
+        "lng": 106.669129729271,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587c8c20b807da0011e33d47&bg=black&w=520&h=300"
+    },
+    {
+        "id": "5822f23aedeb6c0012a2d6a8",
+        "name": "Hồng Bàng - Nguyễn Thị Nhỏ",
+        "lat": 10.7817936319045,
+        "lng": 106.740009784698,
+        "url": "https://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5822f23aedeb6c0012a2d6a8&bg=black&w=520&h=300"
+    }
+]
