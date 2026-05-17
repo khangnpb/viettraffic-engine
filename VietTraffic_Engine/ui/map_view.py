@@ -2,7 +2,62 @@ import folium
 import os
 import base64
 import sys
+import re
 from datetime import datetime
+
+def get_gmaps_tile_path(cctv_image_path):
+    """
+    Từ đường dẫn ảnh YOLO (annotated CCTV snapshot),
+    suy ra đường dẫn ảnh Live Traffic tương ứng từ Google Maps.
+    Nếu không có file trùng khít giây, tự động tìm file có thời gian gần nhất trong vòng 5 phút.
+    """
+    if not cctv_image_path:
+        return None
+    try:
+        norm_path = os.path.normpath(cctv_image_path)
+        parts = norm_path.split(os.sep)
+        
+        # annotated\<folder_name>\annotated_<timestamp>.jpg
+        folder_name = parts[-2]
+        filename = parts[-1]
+        
+        # Bóc tách YYYYMMDD_HHMMSS từ tên file CCTV
+        match = re.search(r'(\d{8}_\d{6})', filename)
+        if not match:
+            return None
+            
+        cctv_ts_str = match.group(1)
+        cctv_dt = datetime.strptime(cctv_ts_str, "%Y%m%d_%H%M%S")
+        
+        gmap_folder = os.path.join(r"A:\TrafficData\TrafficAssessmentbyGoogle Maps", folder_name)
+        if not os.path.exists(gmap_folder):
+            return None
+            
+        # Liệt kê tất cả các file trong folder gmap để tìm file có thời gian tiệm cận nhất
+        gmap_files = os.listdir(gmap_folder)
+        best_path = None
+        min_diff = float('inf')
+        
+        for f in gmap_files:
+            if f.endswith("_google_traffic.png"):
+                m = re.search(r'(\d{8}_\d{6})', f)
+                if m:
+                    gmap_ts_str = m.group(1)
+                    try:
+                        gmap_dt = datetime.strptime(gmap_ts_str, "%Y%m%d_%H%M%S")
+                        diff = abs((cctv_dt - gmap_dt).total_seconds())
+                        
+                        # Chấp nhận sai lệch thời gian tối đa 5 phút (300 giây)
+                        if diff < 300 and diff < min_diff:
+                            min_diff = diff
+                            best_path = os.path.join(gmap_folder, f)
+                    except ValueError:
+                        pass
+        
+        return best_path
+    except Exception as e:
+        print(f"[!] Lỗi khi tìm đường dẫn Google Maps tile: {e}")
+    return None
 
 # Đảm bảo import được các module khác
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -66,9 +121,25 @@ def generate_traffic_map():
             # Nhúng ảnh YOLO đã vẽ bounding box vào popup dạng base64
             img_base64 = get_base64_image(image_path)
             
-            # Khởi tạo khung HTML Popup cực kỳ chuyên nghiệp
+            # Nhúng ảnh Google Maps Traffic Tile tương ứng dạng base64
+            gmap_path = get_gmaps_tile_path(image_path)
+            gmap_base64 = get_base64_image(gmap_path) if gmap_path else None
+            
+            # Khởi tạo khung HTML Popup cực kỳ chuyên nghiệp rộng ngang 240px
+            # Sử dụng transition để thu nhỏ/phóng to mượt mà
             popup_html = f"""
-            <div style="font-family: 'Arial', sans-serif; width: 280px; font-size: 13px;">
+            <style>
+                .leaflet-popup-content-wrapper {{
+                    width: auto !important;
+                    transition: width 0.2s ease-in-out !important;
+                }}
+                .leaflet-popup-content {{
+                    width: auto !important;
+                    transition: width 0.2s ease-in-out !important;
+                    margin: 12px 14px !important;
+                }}
+            </style>
+            <div id="popup-container-{cam_id}" style="font-family: 'Arial', sans-serif; width: 240px; font-size: 13px; transition: width 0.2s; overflow: hidden;">
                 <h4 style="margin: 0 0 5px 0; color: #2c3e50; border-bottom: 2px solid {color}; padding-bottom: 3px;">
                     🚦 {name}
                 </h4>
@@ -92,13 +163,64 @@ def generate_traffic_map():
                 </table>
             """
             
-            if img_base64:
-                popup_html += f"""
-                <div style="margin-top: 10px; text-align: center;">
-                    <img src="{img_base64}" width="260px" style="border-radius: 4px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);"/>
-                    <div style="font-size: 10px; color: #7f8c8d; margin-top: 2px;">Ảnh phân tích AI bởi YOLOv8</div>
-                </div>
-                """
+            if img_base64 or gmap_base64:
+                # Hiển thị nằm ngang (Flexbox side-by-side)
+                popup_html += '<div style="display: flex; gap: 8px; margin-top: 10px; justify-content: space-between;">'
+                if img_base64:
+                    popup_html += f"""
+                    <div style="flex: 1; border: 1px solid #ddd; border-radius: 6px; padding: 4px; background: #fcfcfc; text-align: center; min-width: 100px;">
+                        <div style="font-size: 9px; font-weight: bold; color: #2c3e50; margin-bottom: 2px; text-align: left;">📸 YOLOv8:</div>
+                        <img src="{img_base64}" style="width: 100%; max-width: 100px; height: auto; border-radius: 4px; display: block; margin: 0 auto; transition: max-width 0.2s; cursor: zoom-in;"
+                             onclick="
+                               var parent = document.getElementById('popup-container-{cam_id}');
+                               if(this.style.maxWidth=='100px') {{
+                                 this.style.maxWidth='260px';
+                                 this.style.cursor='zoom-out';
+                                 parent.style.width='480px';
+                               }} else {{
+                                 this.style.maxWidth='100px';
+                                 this.style.cursor='zoom-in';
+                                 var imgs = parent.getElementsByTagName('img');
+                                 var all_small = true;
+                                 for(var i=0; i<imgs.length; i++) {{
+                                   if(imgs[i] !== this && imgs[i].style.maxWidth === '260px') {{
+                                     all_small = false;
+                                   }}
+                                 }}
+                                 if(all_small) parent.style.width='240px';
+                               }}
+                             "
+                        />
+                    </div>
+                    """
+                if gmap_base64:
+                    popup_html += f"""
+                    <div style="flex: 1; border: 1px solid #ddd; border-radius: 6px; padding: 4px; background: #fcfcfc; text-align: center; min-width: 100px;">
+                        <div style="font-size: 9px; font-weight: bold; color: #2c3e50; margin-bottom: 2px; text-align: left;">🗺️ GMap:</div>
+                        <img src="{gmap_base64}" style="width: 100%; max-width: 100px; height: auto; border-radius: 4px; display: block; margin: 0 auto; transition: max-width 0.2s; cursor: zoom-in;"
+                             onclick="
+                               var parent = document.getElementById('popup-container-{cam_id}');
+                               if(this.style.maxWidth=='100px') {{
+                                 this.style.maxWidth='260px';
+                                 this.style.cursor='zoom-out';
+                                 parent.style.width='480px';
+                               }} else {{
+                                 this.style.maxWidth='100px';
+                                 this.style.cursor='zoom-in';
+                                 var imgs = parent.getElementsByTagName('img');
+                                 var all_small = true;
+                                 for(var i=0; i<imgs.length; i++) {{
+                                   if(imgs[i] !== this && imgs[i].style.maxWidth === '260px') {{
+                                     all_small = false;
+                                   }}
+                                 }}
+                                 if(all_small) parent.style.width='240px';
+                               }}
+                             "
+                        />
+                    </div>
+                    """
+                popup_html += '</div>'
             else:
                 popup_html += """
                 <div style="margin-top: 10px; background-color: #f1f2f6; height: 100px; line-height: 100px; text-align: center; color: #7f8c8d; border-radius: 4px;">
@@ -114,7 +236,7 @@ def generate_traffic_map():
             popup_html = f"""
             <div style="font-family: 'Arial', sans-serif; width: 220px; font-size: 13px;">
                 <h4 style="margin: 0 0 5px 0; color: #7f8c8d; border-bottom: 2px solid #7f8c8d; padding-bottom: 3px;">
-                    🔘 {name}
+                    🚦 {name}
                 </h4>
                 <p style="margin: 5px 0; color: #e67e22; font-weight: bold;">⚠️ Đang chờ đồng bộ dữ liệu...</p>
                 <p style="font-size: 11px; color: #7f8c8d; margin: 3px 0;">
@@ -127,7 +249,7 @@ def generate_traffic_map():
         folium.CircleMarker(
             location=[lat, lng],
             radius=8,
-            popup=folium.Popup(popup_html, max_width=300),
+            popup=folium.Popup(popup_html, max_width=500),
             color=color,
             fill=True,
             fill_color=color,

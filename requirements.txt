@@ -1,0 +1,28 @@
+# ==============================================================================
+# VietTraffic Engine - CORE PYTHON DEPENDENCIES
+# Đề tài Thạc sĩ: Bản sao số & Dự báo tối ưu tín hiệu giao thông (Bách Khoa HK252)
+# ==============================================================================
+
+# --- CORE UTILITIES & NETWORKING ---
+requests>=2.28.0
+urllib3>=1.26.0
+certifi>=2023.7.22
+
+# --- DATA SCIENCE & GEOSPATIAL MAPS ---
+numpy>=1.22.0
+pandas>=1.4.0
+folium>=0.14.0
+branca>=0.6.0
+xyzservices>=2023.7.0
+
+# --- ARTIFICIAL INTELLIGENCE & COMPUTER VISION (YOLOv8 & LSTM) ---
+# Thư viện học sâu (Mô hình LSTM dự báo)
+torch>=2.0.0
+
+# Động cơ thị giác nhận diện xe (Tự động bao gồm opencv, matplotlib, yaml, v.v.)
+ultralytics>=8.1.0
+opencv-python>=4.7.0.72
+
+# --- INTERACTIVE DASHBOARD ---
+# Khung hiển thị giao diện người dùng
+streamlit>=1.22.0

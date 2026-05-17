@@ -13,7 +13,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from analytics.database import get_connection, get_latest_traffic_status, get_camera_history
 from analytics.geocoder import load_clean_cameras
 from analytics.density import calculate_los
-from ui.map_view import generate_traffic_map
+from ui.map_view import generate_traffic_map, get_gmaps_tile_path
 from predictor.model_predict import predict_future_pcu
 
 # Thiết lập cấu hình trang Streamlit chuẩn cao cấp
@@ -70,6 +70,26 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 def show_digital_twin_map():
+    # Khóa scrollbar dọc ngoài của Streamlit chỉ riêng trên trang Bản đồ
+    # Giảm tối đa padding để bản đồ trông hoành tráng, full-screen nhất và tránh trôi cuộn trang
+    st.markdown("""
+    <style>
+        div[data-testid="stAppViewContainer"] {
+            overflow-y: hidden !important;
+        }
+        div[data-testid="stMainBlockContainer"] {
+            padding-top: 1.5rem !important;
+            padding-bottom: 0rem !important;
+            padding-left: 2rem !important;
+            padding-right: 2rem !important;
+        }
+        iframe {
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+    </style>
+    """, unsafe_allow_html=True)
+
     st.markdown('<div class="main-title">🗺️ Bản đồ mô phỏng thực tế ảo (Digital Twin Map)</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Mô phỏng tình trạng kẹt xe thực tế dựa trên phân tích hình ảnh AI từ camera TP.HCM.</div>', unsafe_allow_html=True)
     
@@ -131,7 +151,7 @@ def show_digital_twin_map():
     with st.spinner("Đang vẽ bản đồ số giao thông..."):
         try:
             m = generate_traffic_map()
-            st.components.v1.html(m._repr_html_(), height=600)
+            st.components.v1.html(m._repr_html_(), height=800)
         except Exception as e:
             st.error(f"Lỗi kết xuất bản đồ: {e}. Vui lòng kiểm tra xem bạn đã chạy `run_processor.py` để tạo CSDL chưa.")
 
@@ -166,14 +186,26 @@ def show_statistics():
     col1, col2 = st.columns([1, 1.2])
     
     with col1:
-        st.subheader("🖼️ Nhận diện AI mới nhất")
-        # Hiển thị ảnh bounding box YOLO
+        st.subheader("🖼️ Nhận diện AI & Bản đồ kẹt xe")
+        
+        # Trích xuất đường dẫn ảnh
         img_path = cam_status["image_path"]
-        if os.path.exists(img_path):
-            st.image(img_path, caption=f"Ảnh phân tích mới nhất lúc {cam_status['timestamp']}", use_container_width=True)
-        else:
-            st.info("Không tìm thấy file ảnh gốc hoặc ảnh preview.")
-            
+        gmap_path = get_gmaps_tile_path(img_path)
+        
+        tab_cctv, tab_gmaps = st.tabs(["📸 Ảnh AI YOLOv8", "🗺️ Google Maps Live Traffic"])
+        
+        with tab_cctv:
+            if os.path.exists(img_path):
+                st.image(img_path, caption=f"Ảnh phân tích mới nhất lúc {cam_status['timestamp']}", use_container_width=True)
+            else:
+                st.info("Không tìm thấy file ảnh gốc hoặc ảnh preview.")
+                
+        with tab_gmaps:
+            if gmap_path and os.path.exists(gmap_path):
+                st.image(gmap_path, caption="Bản đồ mật độ kẹt xe Google Maps vệ tinh tương ứng", use_container_width=True)
+            else:
+                st.info("Không tìm thấy file bản đồ vệ tinh Google Maps tương ứng.")
+                
         st.markdown(f"""
         - **Mức độ phục vụ (LOS):** {cam_status['los_level']} ({calculate_los(cam_status['total_pcu'])['status']})
         - **Tổng mật độ xe:** {cam_status['total_pcu']} PCU
@@ -298,12 +330,16 @@ def main():
 
     # Nút bấm ép tải lại thủ công dữ liệu
     st.sidebar.markdown("---")
-    if st.sidebar.button("🔄 Refresh Data"):
+    if st.sidebar.button("🔄 Refresh Data", use_container_width=True):
         st.rerun()
         
-    # Auto-refresh bản đồ mỗi 15 giây
-    time.sleep(15)
-    st.rerun()
+    # Auto-refresh bản đồ chỉ khi người dùng bật Toggle
+    st.sidebar.markdown("---")
+    auto_refresh = st.sidebar.toggle("Tự động làm mới (Auto Refresh)", value=False, help="Tự động cập nhật dữ liệu mới từ CSDL sau mỗi 30 giây")
+    if auto_refresh:
+        st.sidebar.caption("🔄 Đang bật tự động cập nhật (30s)...")
+        time.sleep(30)
+        st.rerun()
 
 if __name__ == "__main__":
     main()

@@ -9,6 +9,8 @@ import urllib3
 import random
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import sys
+from PIL import Image
+from io import BytesIO
 
 # Ensure UTF-8 output encoding for Windows console
 if sys.stdout.encoding != 'utf-8':
@@ -24,7 +26,7 @@ BASE_CCTV_DIR = r"A:\TrafficData\snapshots"
 BASE_GMAP_DIR = r"A:\TrafficData\TrafficAssessmentbyGoogle Maps"
 
 INTERVAL = 30      # Chu kỳ quét: 30 giây
-MAX_WORKERS = 6    # Tăng nhẹ số luồng lên 6 để gộp 2 tác vụ mượt mà
+MAX_WORKERS = 25   # Tăng số luồng lên 25 để tránh nghẽn hàng đợi (Queue Congestion), hoàn tất chu kỳ cào chỉ trong ~30.5s
 ZOOM_LEVEL = 17    # Mức zoom chi tiết nút giao trên Google Maps
 
 USER_AGENTS = [
@@ -69,13 +71,10 @@ def download_cctv(session, camera, folder_name, timestamp):
         pass
     return False
 
-def download_gmaps(lat, lng, zoom, folder_name, timestamp):
+def download_gmaps(gmaps_session, lat, lng, zoom, folder_name, timestamp):
     output_dir = os.path.join(BASE_GMAP_DIR, folder_name)
     os.makedirs(output_dir, exist_ok=True)
     filepath = os.path.join(output_dir, f"{timestamp}_google_traffic.png")
-    
-    x, y = latlng_to_tile(lat, lng, zoom)
-    url = f"https://mt1.google.com/vt?lyrs=m,traffic&x={x}&y={y}&z={zoom}"
     
     headers = {
         "User-Agent": random.choice(USER_AGENTS),
@@ -83,16 +82,75 @@ def download_gmaps(lat, lng, zoom, folder_name, timestamp):
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=8, verify=False)
-        if response.status_code == 200:
-            with open(filepath, "wb") as f:
-                f.write(response.content)
-            return True
-    except Exception:
-        pass
+        # 1. Tính toán tọa độ float của camera trên bản đồ Google Maps
+        lat_rad = math.radians(lat)
+        n = 2.0 ** zoom
+        xtile_f = (lng + 180.0) / 360.0 * n
+        ytile_f = (1.0 - math.log(math.tan(lat_rad) + (1.0 / math.cos(lat_rad))) / math.pi) / 2.0 * n
+        
+        x_center = int(xtile_f)
+        y_center = int(ytile_f)
+        
+        px = (xtile_f - x_center) * 256
+        py = (ytile_f - y_center) * 256
+        
+        # Xác định góc bắt đầu của lưới 2x2 chứa camera
+        x_start = x_center - 1 if px < 128 else x_center
+        y_start = y_center - 1 if py < 128 else y_center
+        
+        # Tải SONG SONG 4 tile xung quanh bằng ThreadPoolExecutor nội bộ kết hợp Keep-Alive từ gmaps_session
+        tiles = {}
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            future_to_tile = {}
+            for dx in [0, 1]:
+                for dy in [0, 1]:
+                    tx = x_start + dx
+                    ty = y_start + dy
+                    url = f"https://mt1.google.com/vt?lyrs=m,traffic&x={tx}&y={ty}&z={zoom}"
+                    future = executor.submit(gmaps_session.get, url, headers=headers, timeout=4, verify=False)
+                    future_to_tile[future] = (dx, dy)
+            
+            for future in as_completed(future_to_tile):
+                dx, dy = future_to_tile[future]
+                response = future.result()
+                if response.status_code == 200:
+                    tiles[(dx, dy)] = Image.open(BytesIO(response.content))
+                else:
+                    raise Exception(f"Failed to download tile {dx}, {dy}")
+                    
+        # Ghép 4 tile thành canvas 512x512
+        canvas = Image.new('RGBA', (512, 512))
+        for (dx, dy), img in tiles.items():
+            canvas.paste(img, (dx * 256, dy * 256))
+            
+        # Tìm tọa độ pixel camera trên canvas 512x512 mới ghép
+        canvas_x = (xtile_f - x_start) * 256
+        canvas_y = (ytile_f - y_start) * 256
+        
+        # Crop ảnh 256x256 tâm chính xác tại vị trí camera
+        left = int(canvas_x - 128)
+        top = int(canvas_y - 128)
+        cropped_img = canvas.crop((left, top, left + 256, top + 256))
+        
+        # Lưu ảnh đã được căn giữa hoàn hảo
+        cropped_img.save(filepath, "PNG")
+        return True
+        
+    except Exception as e:
+        # Fallback về phương pháp tải 1 tile truyền thống nếu có lỗi xảy ra
+        try:
+            x, y = latlng_to_tile(lat, lng, zoom)
+            url = f"https://mt1.google.com/vt?lyrs=m,traffic&x={x}&y={y}&z={zoom}"
+            response = gmaps_session.get(url, headers=headers, timeout=4, verify=False)
+            if response.status_code == 200:
+                with open(filepath, "wb") as f:
+                    f.write(response.content)
+                return True
+        except Exception:
+            pass
     return False
 
-def download_unified(session, camera, timestamp):
+def download_unified(session, gmaps_session, camera, timestamp):
     cam_id = camera['id']
     cam_name = clean_filename(camera['name'])
     folder_name = f"{cam_name}___{cam_id}"
@@ -101,14 +159,19 @@ def download_unified(session, camera, timestamp):
     lng = camera.get('lng')
     
     # 1. Tải ảnh CCTV GTVT
+    t0 = time.time()
     cctv_ok = download_cctv(session, camera, folder_name, timestamp)
+    cctv_time = time.time() - t0
     
     # 2. Tải ảnh kẹt xe Google Maps (nếu có tọa độ hợp lệ)
     gmaps_ok = False
+    gmaps_time = 0.0
     if lat is not None and lng is not None:
-        gmaps_ok = download_gmaps(lat, lng, ZOOM_LEVEL, folder_name, timestamp)
+        t1 = time.time()
+        gmaps_ok = download_gmaps(gmaps_session, lat, lng, ZOOM_LEVEL, folder_name, timestamp)
+        gmaps_time = time.time() - t1
         
-    return cctv_ok, gmaps_ok
+    return cctv_ok, gmaps_ok, cctv_time, gmaps_time
 
 def main():
     if not os.path.exists(r"A:"):
@@ -131,6 +194,13 @@ def main():
     print(f"[*] Số camera CCTV: {total_cams} | Số camera có tọa độ Google Maps: {gmap_cams}")
 
     session = requests.Session()
+    
+    # Khởi tạo gmaps_session dùng riêng với HTTP Keep-Alive Connection Pool
+    gmaps_session = requests.Session()
+    adapter = requests.adapters.HTTPAdapter(pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS)
+    gmaps_session.mount("https://", adapter)
+    gmaps_session.mount("http://", adapter)
+    
     cycle_count = 0
 
     while True:
@@ -173,7 +243,7 @@ def main():
                 t_start = time.time()
                 
                 # Submit tác vụ tải hợp nhất
-                future = executor.submit(download_unified, session, camera, timestamp)
+                future = executor.submit(download_unified, session, gmaps_session, camera, timestamp)
                 futures.append(future)
                 
                 # Giãn cách staggered bắt đầu giữa các camera
@@ -185,18 +255,22 @@ def main():
                     print(f" -> Đã xếp lịch cào {idx + 1}/{total_cams} nút giao...")
             
             # Đếm kết quả thành công từ các luồng
+            total_cctv_time = 0.0
+            total_gmaps_time = 0.0
             for future in as_completed(futures):
-                cctv_ok, gmaps_ok = future.result()
+                cctv_ok, gmaps_ok, cctv_t, gmaps_t = future.result()
                 if cctv_ok:
                     cctv_success += 1
                 if gmaps_ok:
                     gmaps_success += 1
+                total_cctv_time += cctv_t
+                total_gmaps_time += gmaps_t
                     
         duration = time.time() - cycle_start
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Hoàn tất chu kỳ Hợp nhất.")
-        print(f" [+] CCTV thành công: {cctv_success}/{total_cams} ảnh.")
-        print(f" [+] Google Maps thành công: {gmaps_success}/{gmap_cams} ảnh tile.")
-        print(f" [+] Tổng thời gian thực hiện: {duration:.2f}s")
+        print(f" [+] CCTV thành công: {cctv_success}/{total_cams} ảnh. (Xử lý tích lũy: {total_cctv_time:.2f}s, TB: {total_cctv_time/total_cams:.3f}s/cam)")
+        print(f" [+] Google Maps thành công: {gmaps_success}/{gmap_cams} ảnh tile. (Xử lý tích lũy: {total_gmaps_time:.2f}s, TB: {total_gmaps_time/gmap_cams:.3f}s/cam)")
+        print(f" [+] Tổng thời gian thực tế của chu kỳ: {duration:.2f}s")
         
         wait_time = max(1, INTERVAL - duration)
         if wait_time > 1:

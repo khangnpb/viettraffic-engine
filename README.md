@@ -51,6 +51,7 @@ Thực tập 2/
 │
 ├── run_dashboard.py               # ROOT LAUNCHER: Khởi động giao diện chính Streamlit
 ├── run_crawlers.py                # ROOT LAUNCHER: Khởi động ĐỘNG CƠ HỢP NHẤT (Tải CCTV & Google Maps)
+├── run_processor.py               # ROOT LAUNCHER: Khởi động ĐỘNG CƠ XỬ LÝ ẢNH AI (YOLOv8 & DB Sync)
 └── requirements.txt               # Danh sách các thư viện Python phụ thuộc
 ```
 
@@ -71,6 +72,12 @@ python run_dashboard.py
 python run_crawlers.py
 ```
 *Tiến trình sẽ chạy tuần hoàn song song, tự động giãn cách nhịp độ cứ mỗi 30 giây để chụp snapshot từ 709 camera và tải ảnh Live Traffic kẹt xe tương ứng từ Google Maps vệ tinh.*
+
+### 3. Khởi chạy Động cơ Xử lý Ảnh AI (YOLOv8 & DB Sync)
+```bash
+python run_processor.py
+```
+*Tiến trình sẽ tự động quét các ảnh thô cào về ở đĩa `A:`, chạy nhận diện phương tiện giao thông bằng YOLOv8, tính PCU và ghi nhận vào cơ sở dữ liệu SQLite.*
 
 ---
 
